@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+ipykernel
+xgboost == 1.5.0
+lightgbm
+dill
+flask
+flask_cors
+#-e .

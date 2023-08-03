@@ -1,0 +1,984 @@
+hotel_key,hotel_name,trading_area,family_rooms,air_conditioned_rooms,london_region_split,brand
+10,Alderley Edge,Not Trading 3,0,,Other,Premier Inn
+1,Aberdeen Airport (Dyce),Scotland North,86,All rooms have air con.,Regions,Premier Inn
+86,Braintree (Freeport Village),Essex,2,No Air Con,Regions,Premier Inn
+106,Bristol Sidcot (A38),Bristol/Somerset,4,All areas air conditioned,Regions,Premier Inn
+35,Barnsley Central M1 J37,Yorkshire,32,All rooms have air con.,Regions,Premier Inn
+25,Bagshot,Sussex/Surrey,17,No Air Con,Regions,Premier Inn
+15,Arundel,South Coast,27,No Air Con,Regions,Premier Inn
+43,Basildon (East Mayne),Essex,12,No Air Con,Regions,Premier Inn
+110,Burton On Trent Central,West Midlands,24,All rooms have air con.,Regions,Premier Inn
+131,Cardiff East,Wales,0,No Air Con,Regions,Premier Inn
+17,Ashby De La Zouch,West Midlands,19,No Air Con,Regions,Premier Inn
+39,Basildon South,Essex,13,No Air Con,Regions,Premier Inn
+75,"Blackpool East (M55, Jct4)",Lancashire/Cumbria,20,No Air Con,Regions,Premier Inn
+34,London Barking,Inner London Area,32,No Air Con,London,Premier Inn
+5,Aberdeen North (Bridge Of Don),Scotland North,17,No Air Con,Regions,Premier Inn
+-1,Unknown,Unknown,NA,NA,NA,Unknown
+30,Barnstaple,Cornwall/Devon,30,No Air Con,Regions,Premier Inn
+60,Birmingham North (S.Coldfield),West Midlands,13,No Air Con,Regions,Premier Inn
+32,Barrow-In-Furness,Lancashire/Cumbria,24,All rooms and reception have air con.,Regions,Premier Inn
+26,Balsall Common (Near Nec),West Midlands,7,No Air Con,Regions,Premier Inn
+20,Ashington,North East,25,All roms have air con.,Regions,Premier Inn
+58,Birkenhead Town Centre,Merseyside,26,All rooms have air con.,Regions,Premier Inn
+52,Bicester,Oxfordshire/Buckinghamshire,34,Whole hotel has air con.,Regions,Premier Inn
+14,Lockerbie (Annandale Water),Not Trading 3,0,,NA,Premier Inn
+41,Basildon (Festival Park),Essex,12,No Air Con,Regions,Premier Inn
+82,Boston,Peak District/Lincolnshire,20,No Air Con,Regions,Premier Inn
+78,Bodmin,Cornwall/Devon,41,No Air Con,Regions,Premier Inn
+28,"Banbury (M40, J11)",Oxfordshire/Buckinghamshire,52,All rooms have air con.,Regions,Premier Inn
+150,Chester East,Not Trading 3,0,,NA,Premier Inn
+19,Ashford Central,Kent,42,All rooms have air con.,Regions,Premier Inn
+29,Banbury - Closed,Not Trading 3,0,,Regions,Premier Inn
+69,Bishop Auckland,North East,24,All rooms have air con.,Regions,Premier Inn
+83,Bournemouth Westbourne,South Coast,47,All rooms have air con.,Regions,Premier Inn
+21,Ashford North,Kent,17,No Air Con,Regions,Premier Inn
+44,Bath City Centre,Bristol/Somerset,40,All rooms have air con.,Regions,Premier Inn
+140,"Castleford (Xscape, M62 J32)",Leeds/Bradford,61,All rooms have air con.,Regions,Premier Inn
+24,Ayr A77/Racecourse,Scotland West,0,No Air Con,Regions,Premier Inn
+13,Andover,Sussex/Surrey,46,All rooms have air con.,Regions,Premier Inn
+23,Ayr/Prestwick Airport,Scotland West,27,No Air Con,Regions,Premier Inn
+81,Bolton West,Greater Manchester,5,No Air Con,Regions,Premier Inn
+55,Birmingham (Great Barr/M6 J7),West Midlands,0,No Air Con,Regions,Premier Inn
+7,Aberdeen (Westhill),Scotland North,15,No Air Con,Regions,Premier Inn
+9,Abingdon,Oxfordshire/Buckinghamshire,0,No Air Con,Regions,Premier Inn
+8,Aberdare,Wales,24,All rooms have air con.,Regions,Premier Inn
+37,Basingstoke Town Centre,Sussex/Surrey,22,All rooms have air con.,Regions,Premier Inn
+40,Basingstoke South,Not Trading 3,0,,NA,Premier Inn
+3,Aberdeen South (Portlethen),Scotland North,27,No Air Con,Regions,Premier Inn
+51,Beverley Town Centre,Yorkshire,33,All rooms have air con.,Regions,Premier Inn
+12,Manchester Altrincham,Greater Manchester,3,No Air Con,Regions,Premier Inn
+113,Burton On Trent East,West Midlands,5,No Air Con,Regions,Premier Inn
+302,Glasgow (Milngavie),Scotland West,28,No Air Con,Regions,Premier Inn
+87,Bradford Central,Leeds/Bradford,50,All rooms have air con.,Regions,Premier Inn
+71,"Blackburn South (M65, J4)",Lancashire/Cumbria,12,No Air Con,Regions,Premier Inn
+48,Belfast City Cathedral Quarter,Northern Ireland,36,All rooms have air con.,Regions,Premier Inn
+-2,All,All,NA,NA,NA,All
+169,Colchester (Cowdray Avenue),East Anglia,15,All rooms and restaurant have air con.,Regions,Premier Inn
+6,Aberdeen City Centre,Scotland North,4,All rooms have air con.,Regions,Premier Inn
+11,Aldershot,Sussex/Surrey,11,No Air Con,Regions,Premier Inn
+27,"Bangor (Gwynedd, North Wales)",Wales,12,No Air Con,Regions,Premier Inn
+4,Aberystwyth,Wales,26,All roms have air con.,Regions,Premier Inn
+18,Ashford (Eureka Leisure Park),Kent,23,All rooms have air con.,Regions,Premier Inn
+111,Burgess Hill,Sussex/Surrey,9,All rooms have air con.,Regions,Premier Inn
+216,Dunstable South A5,North Home Counties,8,No Air Con,Regions,Premier Inn
+183,London Croydon (Purley A23),Outer London Area,29,No Air Con,London,Premier Inn
+85,Bournemouth Central,South Coast,0,All rooms have air con.,Regions,Premier Inn
+46,Bedford South (A421),North Home Counties,28,0,Regions,Premier Inn
+56,Birmingham Central Hagley Road,West Midlands,8,All rooms have air con.,Regions,Premier Inn
+79,Bognor Regis,South Coast,11,No Air Con,Regions,Premier Inn
+136,Carlisle M6 Jct44,Lancashire/Cumbria,15,No Air Con,Regions,Premier Inn
+151,Chessington,Outer London Area,17,0,London,Premier Inn
+42,Basingstoke West,Sussex/Surrey,23,No Air Con,Regions,Premier Inn
+45,London Beckton,Inner London Area,41,No Air Con,London,Premier Inn
+77,Blackpool (Beach),Lancashire/Cumbria,0,No Air Con,Regions,Premier Inn
+76,Blackpool (Bispham),Lancashire/Cumbria,33,No Air Con,Regions,Premier Inn
+38,Basildon (Rayleigh),Essex,7,No Air Con,Regions,Premier Inn
+2,Aberdeen (Anderson Drive),Scotland North,11,No Air Con,Regions,Premier Inn
+61,Birmingham City - Aston,West Midlands,24,All rooms have air con.,Regions,Premier Inn
+194,Derby North West,West Midlands,0,No Air Con,Regions,Premier Inn
+103,Brighton City Centre,South Coast,65,No Air Con,Regions,Premier Inn
+63,Birmingham South (Rubery),West Midlands,19,No Air Con,Regions,Premier Inn
+65,Birmingham City Broad Street,West Midlands,27,No Air Con,Regions,Premier Inn
+218,Dundee North,Scotland North,18,No Air Con,Regions,Premier Inn
+127,Cannock South,West Midlands,21,No Air Con,Regions,Premier Inn
+16,Ascot,Not Trading 3,0,,Regions,Premier Inn
+449,London Angel Islington,Central London Area,10,No Air Con,London,Premier Inn
+261,Exeter Central St Davids,Cornwall/Devon,16,All rooms have air con.,Regions,Premier Inn
+117,Caernarfon,Wales,20,All rooms have air con.,Regions,Premier Inn
+187,Cwmbran,Wales,17,All rooms have air con.,Regions,Premier Inn
+156,Chippenham,Gloucester/Worcester/Hereford,39,No Air Con,Regions,Premier Inn
+64,Birmingham Nec/Airport,West Midlands,30,All rooms have air con.,Regions,Premier Inn
+80,Bolton (Stadium/Arena),Greater Manchester,10,No Air Con,Regions,Premier Inn
+93,London Kew Bridge,Inner London Area,49,All rooms have air con.,London,Premier Inn
+104,Bristol Filton,Bristol/Somerset,5,No Air Con,Regions,Premier Inn
+31,Barnsley (Dearne Valley),Yorkshire,48,No Air Con,Regions,Premier Inn
+532,Newton Abbot,Cornwall/Devon,20,All rooms have air con.,Regions,Premier Inn
+453,London Wimbledon South,Inner London Area,33,"All rooms, reception and reception has ,air conditioning.",London,Premier Inn
+260,Exeter City Centre,Cornwall/Devon,48,All rooms have air con.,Regions,Premier Inn
+36,Sheffield/Barnsley (M1 Jct36),Yorkshire,13,No Air Con,Regions,Premier Inn
+50,Belfast Titanic Quarter,Northern Ireland,47,"All rooms and hotel have air ,con.",Regions,Premier Inn
+116,Buxton,Peak District/Lincolnshire,13,All rooms have air con.,Regions,Premier Inn
+98,Portishead,Bristol/Somerset,44,No Air Con,Regions,Premier Inn
+105,Bristol (Alveston),Bristol/Somerset,26,All rooms have air con.,Regions,Premier Inn
+62,Birmingham M6 Toll,Not Trading 3,0,,NA,Premier Inn
+22,Aylesbury,Oxfordshire/Buckinghamshire,15,No Air Con,Regions,Premier Inn
+59,Birmingham South (Longbridge),West Midlands,33,All rooms have air con.,Regions,Premier Inn
+54,Bradford North (Bingley),Leeds/Bradford,16,No Air Con,Regions,Premier Inn
+72,Blackburn Town Centre,Lancashire/Cumbria,13,All rooms have air con.,Regions,Premier Inn
+128,Cannock (Orbital),West Midlands,14,All rooms have air con.,Regions,Premier Inn
+142,Catterick Garrison,Yorkshire,5,All rooms have air con.,Regions,Premier Inn
+137,Cardiff North,Wales,19,No Air Con,Regions,Premier Inn
+367,Ipswich (Chantry Park),East Anglia,10,No Air Con,Regions,Premier Inn
+91,Bracknell Central,M4 Corridor,36,All rooms are air conditioned,Regions,Premier Inn
+89,Bradford South,Leeds/Bradford,14,No Air Con,Regions,Premier Inn
+249,Edinburgh York Place/St James,Scotland East,23,All rooms have air con.,Regions,Premier Inn
+66,Birmingham City (Waterloo St),West Midlands,48,"All rooms have air con - not all windows,in rooms open.",Regions,Premier Inn
+297,"Glasgow (Cambuslang/M74, J2A)",Scotland West,49,No Air Con,Regions,Premier Inn
+49,Belfast City Centre Alfred St,Northern Ireland,37,All rooms have air con.,Regions,Premier Inn
+70,Blackpool Airport,Lancashire/Cumbria,15,No Air Con,Regions,Premier Inn
+90,Braintree (A120),Essex,26,No Air Con,Regions,Premier Inn
+57,Birmingham Cc (New St Station),West Midlands,54,All rooms have air con.,Regions,Premier Inn
+47,Bedford (Priory Marina),North Home Counties,23,No Air Con,Regions,Premier Inn
+265,Falkirk (Larbert),Scotland East,38,No Air Con,Regions,Premier Inn
+233,St. Neots (A1/Wyboston),North Home Counties,11,No Air Con,Regions,Premier Inn
+193,Derby East,West Midlands,28,No Air Con,Regions,Premier Inn
+197,Derby Cc (Cathedral Quarter),West Midlands,47,All rooms have air con.,Regions,Premier Inn
+119,Caerphilly Crossways,Wales,20,No Air Con,Regions,Premier Inn
+162,Christchurch (East),South Coast,34,No Air Con,Regions,Premier Inn
+114,Bury St Edmunds Town Centre,East Anglia,11,All rooms have air con.,Regions,Premier Inn
+352,Horsham North,Sussex/Surrey,12,No Air Con,Regions,Premier Inn
+184,London Croydon South (A212),Outer London Area,10,No Air Con,London,Premier Inn
+147,Chelmsford (Boreham),Essex,16,All rooms have air con.,Regions,Premier Inn
+102,Bristol City Centre King St,Bristol/Somerset,0,All rooms have air con.,Regions,Premier Inn
+191,Daventry,Not Trading 3,0,,NA,Premier Inn
+84,Bournemouth East (Boscombe),South Coast,8,All rooms and reception have air con.,Regions,Premier Inn
+107,Bristol South,Bristol/Somerset,35,No Air Con,Regions,Premier Inn
+53,Bideford,Cornwall/Devon,28,All rooms have air con.,Regions,Premier Inn
+124,Sandhurst,Sussex/Surrey,15,No Air Con,Regions,Premier Inn
+235,London Edgware,Outer London Area,27,All rooms have air con.,London,Premier Inn
+121,Camborne,Cornwall/Devon,38,All areas have air con.,Regions,Premier Inn
+146,Chester Central North,Cheshire/Shropshire,5,No Air Con,Regions,Premier Inn
+130,Carlisle (M6 Jct42),Lancashire/Cumbria,19,No Air Con,Regions,Premier Inn
+308,Gloucester Business Park,Gloucester/Worcester/Hereford,27,All rooms have air con.,Regions,Premier Inn
+222,Durham North,North East,32,No Air Con,Regions,Premier Inn
+33,Barry Island,Wales,20,All rooms and whole hotel have air con.,Regions,Premier Inn
+602,Portsmouth North Harbour,Portsmouth/Southampton,26,All rooms have air con,Regions,Premier Inn
+288,Glasgow (Bellshill),Scotland West,17,No Air Con,Regions,Premier Inn
+210,Dumfries,Scotland West,16,No Air Con,Regions,Premier Inn
+189,Dartford,Kent,21,All rooms have air con.,Regions,Premier Inn
+179,Coventry (Binley/A46),West Midlands,10,No Air Con,Regions,Premier Inn
+88,Bracknell (Twin Bridges),M4 Corridor,2,No Air Con,Regions,Premier Inn
+97,Bristol East (Emersons Green),Bristol/Somerset,19,No Air Con,Regions,Premier Inn
+175,Coventry City Centre,West Midlands,10,All rooms have air con.,Regions,Premier Inn
+112,Burnley,Lancashire/Cumbria,21,No Air Con,Regions,Premier Inn
+94,Bristol Cribbs Causeway,Bristol/Somerset,52,All areas have air con.,Regions,Premier Inn
+577,"Birmingham Oldbury (M5, Jct2)",West Midlands,10,No Air Con,Regions,Premier Inn
+457,London Orpington,Outer London Area,27,All rooms have air con.,London,Premier Inn
+421,Llandudno North (Little Orme),Wales,7,All rooms have air con.,Regions,Premier Inn
+74,Blackburn North West,Not Trading 3,0,,NA,Premier Inn
+141,Castleford M62 Jct 31,Leeds/Bradford,17,No Air Con,Regions,Premier Inn
+165,Westerham (Clacket Lane),Not Trading 3,0,,NA,Premier Inn
+181,Crewe Central,Cheshire/Shropshire,8,All rooms have air con.,Regions,Premier Inn
+123,Camberley,Sussex/Surrey,30,"All roms, hotel and restaurant have air,conditioning.",Regions,Premier Inn
+68,Birmingham City Bridge Street,West Midlands,20,No Air Con,Regions,Premier Inn
+73,Blackpool Kirkham - Closed,Not Trading 3,0,,NA,Premier Inn
+95,Bridgwater North (A38),Bristol/Somerset,20,No Air Con,Regions,Premier Inn
+155,Chester Central (South East),Cheshire/Shropshire,20,No Air Con,Regions,Premier Inn
+92,Brentwood,Essex,43,All rooms have air con.,Regions,Premier Inn
+138,Cardiff City South,Wales,30,No Air Con,Regions,Premier Inn
+167,Cleethorpes,Peak District/Lincolnshire,30,All rooms have air con.,Regions,Premier Inn
+373,Kettering,North Home Counties,20,No Air Con,Regions,Premier Inn
+387,Leeds City Centre(Leeds Arena),Leeds/Bradford,52,All rooms have air con.,Regions,Premier Inn
+205,Dover (Eastern Ferry Terminal),Kent,33,No Air Con,Regions,Premier Inn
+100,Bristol City Cen (Haymarket),Bristol/Somerset,0,All rooms have air con,Regions,Premier Inn
+300,Glasgow Cc Buchanan Galleries,Scotland West,30,All rooms have air con.,Regions,Premier Inn
+182,Crewe West,Cheshire/Shropshire,33,No Air Con,Regions,Premier Inn
+315,Greenock,Scotland West,16,No Air Con,Regions,Premier Inn
+118,Caerphilly (Corbetts Lane),Wales,0,No Air Con,Regions,Premier Inn
+170,Colchester (A12),East Anglia,29,No Air Con,Regions,Premier Inn
+149,Chesterfield North,Peak District/Lincolnshire,36,No Air Con,Regions,Premier Inn
+67,Birmingham South (Hall Green),West Midlands,0,No Air Con,Regions,Premier Inn
+154,Cheltenham Town Centre,Gloucester/Worcester/Hereford,41,All rooms have air con.,Regions,Premier Inn
+371,Ipswich South East,East Anglia,24,"All rooms have air con.,No air con in reception.",Regions,Premier Inn
+263,Falkirk North,Scotland East,25,No Air Con,Regions,Premier Inn
+228,Glasgow East Kilbride Peel Pk,Scotland West,18,No Air Con,Regions,Premier Inn
+270,Felixstowe Town Centre,East Anglia,28,All rooms have air con.,Regions,Premier Inn
+133,Carrickfergus,Northern Ireland,30,No Air Con,Regions,Premier Inn
+186,Glasgow (Cumbernauld),Scotland West,17,No Air Con,Regions,Premier Inn
+217,Dundee (Monifieth),Scotland North,18,No Air Con,Regions,Premier Inn
+362,Inverness East,Scotland North,6,No Air Con,Regions,Premier Inn
+190,Darlington Town Centre,North East,32,All rooms have air con.,Regions,Premier Inn
+153,Cheltenham Central (West/A40),Gloucester/Worcester/Hereford,16,All rooms have air con.,Regions,Premier Inn
+126,Canterbury City Centre,Kent,13,All rooms have air con.,Regions,Premier Inn
+215,Dunstable / Luton,North Home Counties,16,No Air Con,Regions,Premier Inn
+143,Chester (Railway Station),Cheshire/Shropshire,0,All rooms have air con.,Regions,Premier Inn
+109,Bromsgrove South(Worcester Rd),Not Trading 3,3,No Air Con,Regions,Premier Inn
+96,Bridgend Central,Wales,0,No Air Con,Regions,Premier Inn
+144,Chelmsford City Centre,Essex,10,All rooms have air con.,Regions,Premier Inn
+383,Lancaster,Lancashire/Cumbria,37,No Air Con,Regions,Premier Inn
+176,Coventry City (Earlsdon Park),West Midlands,40,All rooms have air con.,Regions,Premier Inn
+148,Chesterfield West,Peak District/Lincolnshire,6,All rooms have air con.,Regions,Premier Inn
+132,Cardiff (Roath),Not Trading 3,12,No Air Con,Regions,Premier Inn
+322,Halifax Town Centre,Leeds/Bradford,40,All rooms have air con.,Regions,Premier Inn
+227,Glasgow East Kilbride Nerston,Scotland West,41,No Air Con,Regions,Premier Inn
+108,Bromsgrove Central,West Midlands,22,No Air Con,Regions,Premier Inn
+671,St Andrews,Scotland East,25,All rooms have air con.,Regions,Premier Inn
+328,Hartlepool Marina,Yorkshire,43,No Air Con,Regions,Premier Inn
+212,Dunfermline,Scotland East,19,No Air Con,Regions,Premier Inn
+238,Edinburgh A1 (Newcraighall),Scotland East,13,All rooms have air con.,Regions,Premier Inn
+201,Doncaster Central,Yorkshire,37,"All rooms, hotel and restaurant have ,air con.",Regions,Premier Inn
+99,Bristol Cc (Lewins Mead),Bristol/Somerset,18,All rooms have air con.,Regions,Premier Inn
+188,Darlington East (Morton Park),North East,45,No Air Con,Regions,Premier Inn
+378,Kings Langley,North Home Counties,0,No Air Con,Regions,Premier Inn
+248,Edinburgh A1 (Musselburgh),Scotland East,15,No Air Con,Regions,Premier Inn
+160,Chorley South,Lancashire/Cumbria,14,No Air Con,Regions,Premier Inn
+595,Pontypool,Wales,0,No Air Con,Regions,Premier Inn
+463,Covent Garden,Central London Area,0,All rooms have air conditioning,London,hub by Premier Inn
+425,London City (Aldgate),Central London Area,100,All rooms have air con.,London,Premier Inn
+273,Fort William,Scotland North,18,No Air Con,Regions,Premier Inn
+375,Kendal (Killington Lake),Not Trading 3,0,,NA,Premier Inn
+291,Glasgow (Bearsden),Scotland West,19,No Air Con,Regions,Premier Inn
+299,Glasgow City (Charing Cross),Scotland West,73,All rooms have air con.,Regions,Premier Inn
+125,Cambridge North (Girton),East Anglia,15,All rooms have air con.,Regions,Premier Inn
+115,Manchester Bury,Greater Manchester,49,All rooms have air con.,Regions,Premier Inn
+268,Fareham,Portsmouth/Southampton,24,No Air Con,Regions,Premier Inn
+161,Christchurch West,South Coast,10,All rooms have air con.,Regions,Premier Inn
+178,Coventry South (A45),West Midlands,2,No Air Con,Regions,Premier Inn
+139,Cardiff West,Wales,33,No Air Con,Regions,Premier Inn
+163,Cirencester,Gloucester/Worcester/Hereford,23,All rooms have air con.,Regions,Premier Inn
+173,Corby,North Home Counties,21,All rooms have air con.,Regions,Premier Inn
+430,London Brixton,Inner London Area,58,All rooms have air con.,London,Premier Inn
+536,"Newport Wales (M4, J24)",Wales,31,No Air Con,Regions,Premier Inn
+246,Edinburgh Cc (Lauriston Place),Scotland East,0,Hotel is fully air conditioned.,Regions,Premier Inn
+122,Cambridge East,East Anglia,70,All rooms have air con.,Regions,Premier Inn
+312,Grantham,Peak District/Lincolnshire,24,No Air Con,Regions,Premier Inn
+239,Edinburgh A7 (Dalkeith),Scotland East,16,All rooms have air con.,Regions,Premier Inn
+548,Newark,Peak District/Lincolnshire,12,No Air Con,Regions,Premier Inn
+230,East Midlands Airport,East Midlands,16,All rooms have air con.,Regions,Premier Inn
+409,"Livingston (M8, Jct3)",Scotland East,36,No Air Con,Regions,Premier Inn
+159,Chorley North,Lancashire/Cumbria,0,No Air Con,Regions,Premier Inn
+152,Chelmsford (Springfield),Essex,13,No Air Con,Regions,Premier Inn
+221,Durham East,North East,40,No Air Con,Regions,Premier Inn
+391,Leeds / Bradford Airport,Leeds/Bradford,21,All rooms have air con.,Regions,Premier Inn
+369,Ipswich North,East Anglia,16,No Air Con,Regions,Premier Inn
+262,Falkirk Central,Scotland East,14,All rooms have air con.,Regions,Premier Inn
+295,Glasgow Airport,Scotland West,41,No Air Con,Regions,Premier Inn
+145,Cheltenham North West,Gloucester/Worcester/Hereford,7,No Air Con,Regions,Premier Inn
+192,Derby West,West Midlands,16,No Air Con,Regions,Premier Inn
+280,London Gatwick Airport A23,Airports Area,76,All areas air conditioned.,Regions,Premier Inn
+382,Knutsford (Bucklow Hill),Cheshire/Shropshire,0,No Air Con,Regions,Premier Inn
+243,Edinburgh Royal Mile,Scotland East,23,All rooms have air con.,Regions,Premier Inn
+198,Oxford South (Didcot),Oxfordshire/Buckinghamshire,33,No Air Con,Regions,Premier Inn
+134,Carlisle Central North,Lancashire/Cumbria,13,No Air Con,Regions,Premier Inn
+219,"Luton South (M1, J9)",North Home Counties,13,No Air Con,Regions,Premier Inn
+180,London Gatwick Airport East,Sussex/Surrey,14,No Air Con,Regions,Premier Inn
+174,Coventry East (Ansty),West Midlands,9,No Air Con,Regions,Premier Inn
+158,London Chingford,Outer London Area,6,All rooms have air con.,London,Premier Inn
+185,London Croydon Town Centre,Outer London Area,65,All rooms have air con.,London,Premier Inn
+415,Liverpool (Aintree),Merseyside,27,No Air Con,Regions,Premier Inn
+257,Exeter (Countess Wear),Cornwall/Devon,0,No Air Con,Regions,Premier Inn
+240,Edinburgh East,Scotland East,7,No Air Con,Regions,Premier Inn
+207,Dudley Town Centre,West Midlands,19,All rooms have air con.,Regions,Premier Inn
+403,Lincoln (Canwick),Peak District/Lincolnshire,14,No Air Con,Regions,Premier Inn
+275,Frome,Bristol/Somerset,17,No Air Con,Regions,Premier Inn
+120,"Cambridge (A14, J32)",East Anglia,55,All rooms have air con.,Regions,Premier Inn
+722,Tring,Oxfordshire/Buckinghamshire,3,Air con/heating units in all rooms.,Regions,Premier Inn
+359,Huntingdon (A1/A14),North Home Counties,24,No Air Con,Regions,Premier Inn
+304,Gloucester (Longford),Gloucester/Worcester/Hereford,17,No Air Con,Regions,Premier Inn
+276,London Gatwick Manor Royal,Airports Area,52,Whole hotel is air conditioned.,Regions,Premier Inn
+343,Hemel Hempstead West,North Home Counties,12,No Air Con,Regions,Premier Inn
+101,"Bridgend (M4, J35)",Wales,19,No Air Con,Regions,Premier Inn
+241,Edinburgh City (Haymarket),Not Trading 3,0,,Regions,Premier Inn
+398,Leicester Fosse Park,East Midlands,17,No Air Con,Regions,Premier Inn
+264,Falkirk East,Scotland East,22,No Air Con,Regions,Premier Inn
+208,Dudley (Kingswinford),West Midlands,10,"All rooms at the this hotel have,air confitioning",Regions,Premier Inn
+719,Tonbridge North,Kent,22,No Air Con,Regions,Premier Inn
+635,Runcorn,Merseyside,29,No Air Con,Regions,Premier Inn
+461,London Southwark (Tate Modern),Central London Area,40,All rooms have air con.,London,Premier Inn
+283,Gillingham Business Park,Kent,27,No Air Con,Regions,Premier Inn
+379,London Kings Cross,Central London Area,0,"All rooms and whole hotel has air,conditioning.",London,Premier Inn
+331,Hastings,South Coast,11,All rooms have air con.,Regions,Premier Inn
+301,"Glasgow Stepps (M80, J3)",Scotland West,37,No Air Con,Regions,Premier Inn
+157,Chichester South,South Coast,31,No Air Con,Regions,Premier Inn
+129,Cardiff Cc (Queen Street),Wales,57,All rooms have air con.,Regions,Premier Inn
+303,Glenrothes,Scotland East,30,No Air Con,Regions,Premier Inn
+195,Derby South,West Midlands,8,No Air Con,Regions,Premier Inn
+237,Edinburgh - Royal Mile,Scotland East,0,"All rooms have brand new powerful,aircon.",Regions,hub by Premier Inn
+202,Dorchester,South Coast,30,All rooms have air con.,Regions,Premier Inn
+213,Dundee Centre,Scotland North,37,All areas air conditioned.,Regions,Premier Inn
+209,Dumbarton/Loch Lomond,Scotland West,34,All rooms have air con.,Regions,Premier Inn
+538,Durham (Newton Aycliffe),North East,10,No Air Con,Regions,Premier Inn
+693,Sunderland City Centre,North East,42,All rooms have air con.,Regions,Premier Inn
+374,Kidderminster,West Midlands,24,All rooms have air con.,Regions,Premier Inn
+171,Coleraine,Northern Ireland,8,All rooms have air con.,Regions,Premier Inn
+348,High Wycombe / Beaconsfield,M4 Corridor,52,No Air Con,Regions,Premier Inn
+267,Farnborough West (Southwood),Sussex/Surrey,34,No Air Con,Regions,Premier Inn
+649,Skipton North (Gargrave),Yorkshire,22,All rooms have air con.,Regions,Premier Inn
+234,Ebbw Vale,Wales,51,All rooms have air con.,Regions,Premier Inn
+424,Llanelli Central West,Wales,20,All rooms have air con.,Regions,Premier Inn
+164,Clacton-On-Sea,East Anglia,19,No Air Con,Regions,Premier Inn
+211,Dundee East,Scotland North,16,No Air Con,Regions,Premier Inn
+236,"Edinburgh Airport (M9, Jct1)",Scotland East,35,All rooms have air con.,Regions,Premier Inn
+514,Manchester Trafford Centre Wst,Greater Manchester,22,All rooms have air con.,Regions,Premier Inn
+381,Knutsford (Mere),Cheshire/Shropshire,0,No Air Con,Regions,Premier Inn
+451,London Leicester Square,Central London Area,14,All rooms have air con.,London,Premier Inn
+307,Gloucester (Barnwood),Gloucester/Worcester/Hereford,31,All rooms have air con.,Regions,Premier Inn
+200,Doncaster (Lakeside),Yorkshire,21,All rooms have air con.,Regions,Premier Inn
+247,Edinburgh (South Queensferry),Scotland East,27,No Air Con,Regions,Premier Inn
+293,Glasgow Newton Mearns (M77 J4),Scotland West,26,All rooms have air con.,Regions,Premier Inn
+404,Liskeard,Cornwall/Devon,39,All rooms have air con.,Regions,Premier Inn
+255,Epsom North,Outer London Area,0,No Air Con,London,Premier Inn
+287,Glasgow City Centre South,Scotland West,31,No Air Con,Regions,Premier Inn
+199,Doncaster Central East,Yorkshire,23,No Air Con,Regions,Premier Inn
+323,Halifax South,Leeds/Bradford,0,No Air Con,Regions,Premier Inn
+206,Dublin Airport,Republic of Ireland,17,All rooms have air con.,Regions,Premier Inn
+290,Glasgow Braehead,Scotland West,43,No Air Con,Regions,Premier Inn
+203,Dover East,Kent,8,No Air Con,Regions,Premier Inn
+289,Glasgow East,Scotland West,25,No Air Con,Regions,Premier Inn
+418,Livingston (Bathgate),Scotland East,22,No Air Con,Regions,Premier Inn
+277,Newcastle (Metro Centre),North East,18,No Air Con,Regions,Premier Inn
+317,Great Yarmouth West (A47),East Anglia,4,All rooms have air con.,Regions,Premier Inn
+224,Glasgow East Kilbride Central,Scotland West,15,No Air Con,Regions,Premier Inn
+438,London Edmonton,Inner London Area,44,All rooms have air con,London,Premier Inn
+310,Goole,Yorkshire,23,No Air Con,Regions,Premier Inn
+177,"Coventry East (M6,Jct2)",West Midlands,9,All rooms and restaurant have air con.,Regions,Premier Inn
+775,Wolverhampton City Centre,West Midlands,10,All areas are air conditioned.,Regions,Premier Inn
+454,London Bank (Tower),Central London Area,93,All rooms have air con.,London,Premier Inn
+330,London Harrow,Outer London Area,38,All rooms have air con.,London,Premier Inn
+286,Glasgow City Centre Argyle St,Scotland West,0,No Air Con,Regions,Premier Inn
+358,Hull North,Yorkshire,26,No Air Con,Regions,Premier Inn
+172,Colchester Town Centre,East Anglia,24,All rooms have air con.,Regions,Premier Inn
+340,Heathrow Airport (M4/J4),Airports Area,0,All rooms have air con.,Regions,Premier Inn
+406,Littlehampton,South Coast,26,All rooms have air con.,Regions,Premier Inn
+272,Folkestone (Channel Tunnel),Kent,30,No Air Con,Regions,Premier Inn
+214,Dundee West,Scotland North,27,No Air Con,Regions,Premier Inn
+874,London West Brompton,Inner London Area,0,All rooms have air con.,London,hub by Premier Inn
+655,Southampton North,Portsmouth/Southampton,19,No Air Con,Regions,Premier Inn
+469,London Tower Bridge,Central London Area,40,All rooms have air con.,London,Premier Inn
+336,Hayle,Cornwall/Devon,51,No Air Con,Regions,Premier Inn
+470,London Uxbridge,Outer London Area,32,All rooms have air con.,London,Premier Inn
+351,Honiton,Cornwall/Devon,27,All rooms have air con.,Regions,Premier Inn
+313,Gravesend (A2/Singlewell),Kent,18,No Air Con,Regions,Premier Inn
+166,Clacton-On-Sea (Seafront),East Anglia,23,All rooms have air con.,Regions,Premier Inn
+135,Carlisle Central,Lancashire/Cumbria,27,No Air Con,Regions,Premier Inn
+447,London Hampstead,Inner London Area,15,No Air Con,London,Premier Inn
+244,Edinburgh Park (Airport),Scotland East,80,All rooms have air con.,Regions,Premier Inn
+279,Gatwick Crawley (Goff's Park),Sussex/Surrey,1,No Air Con,Regions,Premier Inn
+204,Dover (A20),Kent,24,No Air Con,Regions,Premier Inn
+252,London Enfield,Outer London Area,91,All areas air conditioned.,London,Premier Inn
+390,Leeds City Centre,Leeds/Bradford,20,All rooms have air con.,Regions,Premier Inn
+551,Newcastle (Team Valley),North East,16,No Air Con,Regions,Premier Inn
+727,Uttoxeter,Cheshire/Shropshire,24,All rooms have air con,Regions,Premier Inn
+435,London Dagenham,Outer London Area,31,All rooms have air con.,London,Premier Inn
+278,London Gatwick Airport South,Airports Area,26,No Air Con,Regions,Premier Inn
+397,Leicester (Braunstone),East Midlands,42,No Air Con,Regions,Premier Inn
+281,Gatwick Crawley Town West,Sussex/Surrey,78,No Air Con,Regions,Premier Inn
+720,Tonbridge,Kent,0,No Air Con,Regions,Premier Inn
+258,Exeter (M5 J29),Cornwall/Devon,37,All rooms have air con.,Regions,Premier Inn
+545,Newbury / Thatcham,Not Trading 3,0,,NA,Premier Inn
+168,Cobham,Sussex/Surrey,24,No Air Con,Regions,Premier Inn
+223,Durham South,Not Trading 3,0,,NA,Premier Inn
+242,Edinburgh Leith Waterfront,Scotland East,35,No Air Con,Regions,Premier Inn
+660,South Mimms/Potters Bar,North Home Counties,28,All rooms have air con.,Regions,Premier Inn
+440,London Euston,Central London Area,14,All rooms have air con.,London,Premier Inn
+475,Lowestoft,East Anglia,10,No Air Con,Regions,Premier Inn
+372,Kendal Central,Lancashire/Cumbria,14,All rooms have air con.,Regions,Premier Inn
+231,East Grinstead,Sussex/Surrey,13,No Air Con,Regions,Premier Inn
+251,London Elstree / Borehamwood,North Home Counties,51,All rooms have air con.,Regions,Premier Inn
+311,Gosport,Portsmouth/Southampton,30,All rooms have air con.,Regions,Premier Inn
+431,London Bromley,Outer London Area,73,All rooms have air con,London,Premier Inn
+259,Exmouth Seafront,Cornwall/Devon,9,All rooms have air con.,Regions,Premier Inn
+332,Hatfield,North Home Counties,8,No Air Con,Regions,Premier Inn
+341,Helston,Cornwall/Devon,46,All rooms have air con.,Regions,Premier Inn
+349,Hinckley,West Midlands,31,All rooms have air con.,Regions,Premier Inn
+220,Durham City Centre Walkergate,North East,14,No Air Con,Regions,Premier Inn
+316,London Greenford,Outer London Area,11,No Air Con,London,Premier Inn
+256,Evesham,Gloucester/Worcester/Hereford,37,No Air Con,Regions,Premier Inn
+604,Portsmouth Havant South,Portsmouth/Southampton,19,All rooms have air con.,Regions,Premier Inn
+534,Newport/Telford,Cheshire/Shropshire,20,All rooms have air con.,Regions,Premier Inn
+314,Gravesend Central,Kent,19,No Air Con,Regions,Premier Inn
+345,Hereford Holmer,Gloucester/Worcester/Hereford,14,No Air Con,Regions,Premier Inn
+254,Epsom South,Sussex/Surrey,3,No Air Con,Regions,Premier Inn
+472,London Waterloo,Central London Area,19,All rooms have air von.,London,Premier Inn
+320,Guildford (Worplesdon),Not Trading 3,0,,NA,Premier Inn
+232,Eastbourne Town Centre,South Coast,27,All rooms have air con.,Regions,Premier Inn
+793,Slough Central South,M4 Corridor,53,All rooms have air con.,Regions,Premier Inn
+495,Manchester (Cheadle),Greater Manchester,21,No Air Con,Regions,Premier Inn
+338,Heathrow Airport Terminal 5,Airports Area,99,All rooms have air con.,Regions,Premier Inn
+305,Gloucester (Little Witcombe),Gloucester/Worcester/Hereford,16,No Air Con,Regions,Premier Inn
+414,Liverpool City (Albert Dock),Merseyside,34,"All rooms, bar and restaurant have air ,conditioning.",Regions,Premier Inn
+324,Glasgow (Hamilton),Not Trading 3,0,,NA,Premier Inn
+355,Huddersfield North,Leeds/Bradford,18,No Air Con,Regions,Premier Inn
+477,Luton Town Centre,North Home Counties,0,No Air Con,Regions,Premier Inn
+402,Lincoln City Centre,Peak District/Lincolnshire,58,All rooms have air con.,Regions,Premier Inn
+225,Southampton (Eastleigh),Portsmouth/Southampton,20,All rooms have air con.,Regions,Premier Inn
+876,Leipzig City Oper,Germany Southeast,0,,Germany,Premier Inn Germany
+663,Southampton Airport,Portsmouth/Southampton,0,All rooms air conditioned.,Regions,Premier Inn
+517,Market Harborough,North Home Counties,26,No Air Con,Regions,Premier Inn
+377,Kings Lynn,East Anglia,83,No Air Con,Regions,Premier Inn
+553,Newcastle South,North East,14,No Air Con,Regions,Premier Inn
+388,Leeds South (Birstall),Leeds/Bradford,14,No Air Con,Regions,Premier Inn
+319,Guildford North (A3),Sussex/Surrey,18,All rooms have air con.,Regions,Premier Inn
+196,Derby Cc Riverlights,West Midlands,54,All rooms have air con.,Regions,Premier Inn
+344,Herne Bay,Kent,12,All rooms have air con.,Regions,Premier Inn
+471,London Wandsworth,Inner London Area,48,All rooms have air con.,London,Premier Inn
+309,Godalming,Sussex/Surrey,4,"Air con in all rooms (windows do not,open).",Regions,Premier Inn
+306,Gloucester (Twigworth),Gloucester/Worcester/Hereford,22,No Air Con,Regions,Premier Inn
+292,Glasgow City (George Square),Scotland West,6,All areas are air conditioned.,Regions,Premier Inn
+266,Farnham,Sussex/Surrey,16,All rooms have air con.,Regions,Premier Inn
+394,Leicester North West,East Midlands,20,No Air Con,Regions,Premier Inn
+563,Northampton South (Wootton),North Home Counties,4,No Air Con,Regions,Premier Inn
+908,Edinburgh City (Waverley),Scotland East,0,,Regions,Premier Inn
+533,Newcastle Airport,North East,74,No Air Con,Regions,Premier Inn
+370,Ipswich South,East Anglia,8,No Air Con,Regions,Premier Inn
+540,Newcastle (Millennium Bridge),North East,20,No Air Con,Regions,Premier Inn
+296,Glasgow (Motherwell),Scotland West,17,No Air Con,Regions,Premier Inn
+726,London Twickenham Stadium,Outer London Area,22,No Air Con,London,Premier Inn
+284,Rainham (Kent),Kent,13,All rooms have air con.,Regions,Premier Inn
+614,London Rainham,Outer London Area,22,No Air Con,London,Premier Inn
+229,Eastbourne (Polegate),South Coast,29,No Air Con,Regions,Premier Inn
+226,Eastbourne,South Coast,26,No Air Con,Regions,Premier Inn
+488,Malvern,Gloucester/Worcester/Hereford,5,All rooms have air con.,Regions,Premier Inn
+701,Swindon North,M4 Corridor,15,No Air Con,Regions,Premier Inn
+487,Maidstone (A26/Wateringbury),Kent,0,No Air Con,Regions,Premier Inn
+519,Margate,Kent,26,No Air Con,Regions,Premier Inn
+376,Kilmarnock,Scotland West,17,No Air Con,Regions,Premier Inn
+245,Edinburgh (Princes Street),Scotland East,32,All of the rooms have air con.,Regions,Premier Inn
+253,Epsom Central,Sussex/Surrey,7,No Air Con,Regions,Premier Inn
+333,Haverfordwest (North/A40),Wales,9,All rooms have air con.,Regions,Premier Inn
+439,London Eltham,Outer London Area,75,All rooms have air con.,London,Premier Inn
+271,Fleet,Sussex/Surrey,28,All rooms have air con.,Regions,Premier Inn
+361,Inverness Centre (Millburn Rd),Scotland North,1,No Air Con,Regions,Premier Inn
+412,Liverpool John Lennon Airport,Merseyside,47,"All rooms, hotel and restaurant have ,air conditioning.",Regions,Premier Inn
+384,Leamington Spa Town Centre,West Midlands,31,"All rooms, whole hotel & restaurant ,has air conditioning.",Regions,Premier Inn
+285,Chatham/Gillingham (Vic Pier),Kent,28,All rooms have air con.,Regions,Premier Inn
+357,Hull West,Yorkshire,31,No Air Con,Regions,Premier Inn
+327,Harrogate South,Yorkshire,14,No Air Con,Regions,Premier Inn
+842,Jersey,Cornwall/Devon,39,All rooms have air con,Regions,Premier Inn
+632,Rugby North (M6 Jct1),West Midlands,24,No Air Con,Regions,Premier Inn
+389,Leeds City (Elland Road),Leeds/Bradford,12,All rooms have air con.,Regions,Premier Inn
+513,Manchester (Prestwich),Greater Manchester,26,No Air Con,Regions,Premier Inn
+282,London Gatwick Airport,Airports Area,135,All rooms have air con.,Regions,Premier Inn
+509,Manchester Salford Media City,Greater Manchester,43,All rooms have air con.,Regions,Premier Inn
+326,Harlow North (Harlow Mill),Essex,28,No Air Con,Regions,Premier Inn
+250,Elgin,Scotland North,20,No Air Con,Regions,Premier Inn
+928,Banbury Town Centre,Oxfordshire/Buckinghamshire,0,,Regions,Premier Inn
+843,Epsom Town Centre,Sussex/Surrey,16,All rooms have air con,Regions,Premier Inn
+411,Liverpool City (Liverpool One),Merseyside,52,All rooms have air con.,Regions,Premier Inn
+380,London Kingston Upon Thames,Outer London Area,50,All room have air con.,London,Premier Inn
+445,London Hanger Lane,Outer London Area,60,All rooms have air con.,London,Premier Inn
+334,Portsmouth (Havant),Portsmouth/Southampton,26,All rooms have air con,Regions,Premier Inn
+499,Manchester (Swinton),Greater Manchester,29,No Air Con,Regions,Premier Inn
+492,Manchester (Wilmslow),Greater Manchester,24,No Air Con,Regions,Premier Inn
+408,Liverpool City Centre,Merseyside,14,All airs are air-conditioned.,Regions,Premier Inn
+346,High Wycombe Central,M4 Corridor,35,All rooms have air con.,Regions,Premier Inn
+692,Stratford-Upon-Avon Central,Gloucester/Worcester/Hereford,21,All rooms have air con.,Regions,Premier Inn
+578,Oldham (Broadway),Greater Manchester,13,No Air Con,Regions,Premier Inn
+395,Leicester Central (A50),East Midlands,12,All rooms have air con.,Regions,Premier Inn
+573,Nottingham South,East Midlands,44,No Air Con,Regions,Premier Inn
+552,Newcastle City Centre The Gate,North East,70,All rooms have air con.,Regions,Premier Inn
+329,Harrogate Town Centre,Yorkshire,36,All rooms and whole hotel has air con.,Regions,Premier Inn
+298,Glasgow Pacific Quay,Scotland West,61,All rooms have air con.,Regions,Premier Inn
+428,London Bexleyheath,Outer London Area,41,All rooms have air con.,London,Premier Inn
+546,Newcastle Cc (Quayside),North East,11,No Air Con,Regions,Premier Inn
+443,London Hackney,Inner London Area,37,All rooms have air con.,London,Premier Inn
+318,Grimsby,Peak District/Lincolnshire,15,No Air Con,Regions,Premier Inn
+422,Llantrisant,Wales,10,All rooms have air con.,Regions,Premier Inn
+321,Hagley,West Midlands,18,No Air Con,Regions,Premier Inn
+433,London County Hall,Central London Area,70,All areas air conditioned.,London,Premier Inn
+569,Nottingham Cc (Chapel Bar),East Midlands,26,All rooms have air con.,Regions,Premier Inn
+914,Dublin City Centre,Republic of Ireland,0,,Regions,Premier Inn
+572,Nottingham North (Daybrook),East Midlands,12,No Air Con,Regions,Premier Inn
+541,Newcastle Cc (New Bridge St),Not Trading 3,0,All rooms have air con.,Regions,Premier Inn
+557,Northampton Town Centre,North Home Counties,42,All rooms have air con.,Regions,Premier Inn
+401,Lichfield City Centre,West Midlands,32,All rooms have air con.,Regions,Premier Inn
+747,Wellingborough,North Home Counties,19,No Air Con,Regions,Premier Inn
+325,Harwich,East Anglia,19,No Air Con,Regions,Premier Inn
+638,Scunthorpe,Peak District/Lincolnshire,19,No Air Con,Regions,Premier Inn
+456,London Kensington (Olympia),Inner London Area,27,Whole hotel has air conditioning.,London,Premier Inn
+368,Ipswich Town Centre (Quayside),East Anglia,5,All rooms have air con.,Regions,Premier Inn
+704,Tamworth South,West Midlands,18,No Air Con,Regions,Premier Inn
+823,Abergavenny,Wales,25,All rooms have air con.,Regions,Premier Inn
+511,Manchester (Denton),Greater Manchester,23,No Air Con,Regions,Premier Inn
+523,Middlesbrough Sth Guisborough,Not Trading 3,0,,NA,Premier Inn
+482,Maidstone (Hollingbourne),Not Trading 3,0,,NA,Premier Inn
+353,Huddersfield Central,Leeds/Bradford,15,All rooms have air con.,Regions,Premier Inn
+269,Farnborough Town Centre,Sussex/Surrey,30,All rooms have air con.,Regions,Premier Inn
+356,Hull City Centre,Yorkshire,63,All room have air con.,Regions,Premier Inn
+484,Maidstone (Sandling),Kent,18,No Air Con,Regions,Premier Inn
+342,Hemel Hempstead Central,North Home Counties,41,All rooms have air con,Regions,Premier Inn
+413,Liverpool North,Merseyside,32,No Air Con,Regions,Premier Inn
+510,Manchester City Centre West,Greater Manchester,50,All rooms have air con.,Regions,Premier Inn
+544,Newcastle Airport (South),North East,20,No Air Con,Regions,Premier Inn
+294,Glastonbury,Bristol/Somerset,22,All rooms and reception have air con.,Regions,Premier Inn
+407,Liverpool (Tarbock),Merseyside,12,No Air Con,Regions,Premier Inn
+339,Heathrow Airport T2 & T3,Airports Area,148,all rooms have air con,Regions,Premier Inn
+850,Ringwood,South Coast,28,All rooms have air con,Regions,Premier Inn
+658,Southend On Sea,Essex,19,All rooms have air con.,Regions,Premier Inn
+434,Derry / Londonderry,Northern Ireland,22,All rooms have air con.,Regions,Premier Inn
+576,Oldham Central,Greater Manchester,25,No Air Con,Regions,Premier Inn
+335,London Hayes North,Outer London Area,32,All rooms have air con.,Regions,Premier Inn
+579,Southport (Ormskirk),Lancashire/Cumbria,20,All rooms have air con.,Regions,Premier Inn
+426,London Archway,Inner London Area,83,All rooms have air con.,London,Premier Inn
+274,Frankfurt Messe,Germany Northwest,9,All rooms have air con.,Germany,Premier Inn Germany
+892,Chester (Grosvenor Centre),Cheshire/Shropshire,0,,Regions,Premier Inn
+493,Manchester (Handforth),Greater Manchester,0,No Air Con,Regions,Premier Inn
+400,Lichfield North East (A38),West Midlands,4,No Air Con,Regions,Premier Inn
+455,London City (Old Street),Central London Area,91,All rooms have air con.,London,Premier Inn
+460,London Sidcup,Outer London Area,75,All rooms have air con.,London,Premier Inn
+501,Manchester City (Portland St),Greater Manchester,33,No Air Con,Regions,Premier Inn
+504,Manchester Tameside Hyde,Greater Manchester,24,No Air Con,Regions,Premier Inn
+479,Macclesfield North,Cheshire/Shropshire,11,No Air Con,Regions,Premier Inn
+363,Inverness Centre (River Ness),Scotland North,16,All rooms have air con.,Regions,Premier Inn
+840,London Wembley Stadium,Outer London Area,129,All rooms have air con,London,Premier Inn
+580,Oswestry,Cheshire/Shropshire,25,All rooms and restaurant have air con.,Regions,Premier Inn
+405,Lisburn,Northern Ireland,23,No Air Con,Regions,Premier Inn
+801,London Chiswick,Inner London Area,78,All rooms have air con.,London,Premier Inn
+606,Portsmouth (Horndean),Portsmouth/Southampton,9,All rooms have air con.,Regions,Premier Inn
+337,Haydock Park/M6 J23,Merseyside,15,No Air Con,Regions,Premier Inn
+497,Manchester City (Piccadilly),Greater Manchester,78,All rooms have air con.,Regions,Premier Inn
+542,Newmarket,East Anglia,10,All rooms have air con.,Regions,Premier Inn
+682,Stourbridge Town Centre,West Midlands,26,All rooms have air con.,Regions,Premier Inn
+473,Loughton/Buckhurst Hill,Outer London Area,10,No Air Con,London,Premier Inn
+458,London Putney Bridge,Inner London Area,50,All rooms have air con,London,Premier Inn
+464,London St Pancras,Central London Area,93,All rooms have air con.,London,Premier Inn
+354,Huddersfield West,Leeds/Bradford,0,No Air Con,Regions,Premier Inn
+467,Tower Bridge,Central London Area,0,All rooms have brand new powerful aircon,London,hub by Premier Inn
+575,Nuneaton/Coventry,West Midlands,6,No Air Con,Regions,Premier Inn
+926,Pickering,Yorkshire,0,,Regions,Premier Inn
+611,Preston South (Cuerden Way),Not Trading 3,18,No Air Con,Regions,Premier Inn
+568,Nottingham Nw (Hucknall),East Midlands,0,No Air Con,Regions,Premier Inn
+670,St. Austell,Cornwall/Devon,33,No Air Con,Regions,Premier Inn
+416,Liverpool Rainhill,Merseyside,12,No Air Con,Regions,Premier Inn
+871,Haywards Heath,Sussex/Surrey,0,,Regions,Premier Inn
+364,Inverness West,Scotland North,16,All rooms have air con.,Regions,Premier Inn
+705,Tamworth Central,West Midlands,28,No Air Con,Regions,Premier Inn
+524,Stockton-On-Tees (Teesside),Yorkshire,42,No Air Con,Regions,Premier Inn
+437,London Ealing,Outer London Area,66,All rooms have air con.,London,Premier Inn
+751,West Bromwich Central,West Midlands,6,No Air Con,Regions,Premier Inn
+878,Dresden City Zentrum,Germany Southeast,5,All rooms have air con.,Germany,Premier Inn Germany
+583,Glasgow (Paisley),Scotland West,15,No Air Con,Regions,Premier Inn
+594,Plymouth (Sutton Harbour),Cornwall/Devon,0,All rooms have air con.,Regions,Premier Inn
+554,Northwich (Sandiway),Cheshire/Shropshire,26,No Air Con,Regions,Premier Inn
+442,London Greenwich,Inner London Area,59,"All rooms, hotel and restaurant have air,conditioning.",London,Premier Inn
+350,Hitchin Town Centre,North Home Counties,23,All rooms have air con.,Regions,Premier Inn
+360,London Ilford,Inner London Area,38,All rooms have air conditioning,London,Premier Inn
+506,Manchester Central,Greater Manchester,36,All rooms have air con.,Regions,Premier Inn
+365,Isle Of Wight (Newport),South Coast,27,No Air Con,Regions,Premier Inn
+571,Nottingham City (Goldsmith St),East Midlands,63,No Air Con,Regions,Premier Inn
+543,Newquay (A30/Fraddon),Cornwall/Devon,35,No Air Con,Regions,Premier Inn
+556,Norwich City Centre (Duke St),East Anglia,4,No Air Con,Regions,Premier Inn
+385,Leek Town Centre,Peak District/Lincolnshire,8,Rooms and public areas have air con,Regions,Premier Inn
+476,Luton (Airport),North Home Counties,27,All rooms have air con.,Regions,Premier Inn
+386,Leeds East,Leeds/Bradford,18,No Air Con,Regions,Premier Inn
+958,Torquay Harbour,Cornwall/Devon,0,,Regions,Premier Inn
+675,Stevenage North,North Home Counties,13,No Air Con,Regions,Premier Inn
+505,Manchester (Heaton Park),Greater Manchester,23,No Air Con,Regions,Premier Inn
+596,Pontefract South,Not Trading 3,0,,NA,Premier Inn
+347,Christchurch / Highcliffe,South Coast,33,All rooms have air con.,Regions,Premier Inn
+603,Portsmouth City Centre,Portsmouth/Southampton,52,All rooms have air con.,Regions,Premier Inn
+452,London Lewisham,Inner London Area,24,All rooms have air con.,London,Premier Inn
+366,Isle Of Wight Sandown,South Coast,62,All rooms have air con.,Regions,Premier Inn
+910,Hamburg St. Pauli,Germany Northwest,0,,Germany,Premier Inn Germany
+807,Bedford Town Centre,North Home Counties,32,All rooms have air con.,Regions,Premier Inn
+423,Llanelli Central East,Wales,14,All rooms have air con.,Regions,Premier Inn
+494,Mansfield,Peak District/Lincolnshire,34,No Air Con,Regions,Premier Inn
+466,London Sutton,Outer London Area,0,,London,Premier Inn
+549,Newport City Centre (Wales),Not Trading 3,0,,Regions,Premier Inn
+537,Newhaven,South Coast,14,No Air Con,Regions,Premier Inn
+502,Manchester (Worsley East/A580),Not Trading 3,0,,NA,Premier Inn
+483,Maidstone Town Centre,Kent,41,All rooms and whole hotel has air con.,Regions,Premier Inn
+877,Berlin City Centre,Germany Southeast,5,All rooms have air con.,Germany,Premier Inn Germany
+609,Preston West,Franchise Area,10,No Air Con,Regions,Premier Inn
+468,London Tottenham Hale,Inner London Area,38,All rooms have air con.,London,Premier Inn
+819,Skegness Seafront,Peak District/Lincolnshire,69,All rooms have air con,Regions,Premier Inn
+645,Shrewsbury North (Harmer Hill),Cheshire/Shropshire,24,All rooms & restaurant have air con.,Regions,Premier Inn
+459,London Richmond,Inner London Area,35,All rooms have air con.,London,Premier Inn
+585,Penrith,Lancashire/Cumbria,8,All rooms have air con.,Regions,Premier Inn
+616,Reading (Caversham Bridge),M4 Corridor,0,No Air Con,Regions,Premier Inn
+730,"Wakefield South (M1, Jct39)",Leeds/Bradford,4,No Air Con,Regions,Premier Inn
+802,Thirsk,Yorkshire,35,All rooms have air con.,Regions,Premier Inn
+478,"Lymington (New Forest, Hordle)",South Coast,8,"All rooms and whole hotel have air ,conditioning.",Regions,Premier Inn
+518,Marlow,M4 Corridor,4,All rooms have air con.,Regions,Premier Inn
+417,Liverpool (West Derby),Merseyside,54,No Air Con,Regions,Premier Inn
+496,Manchester Trafford Centre Sth,Greater Manchester,26,No Air Con,Regions,Premier Inn
+650,Slough,M4 Corridor,30,All rooms have air con.,Regions,Premier Inn
+951,Durham (Milburngate),North East,0,,Regions,Premier Inn
+625,Rochester,Kent,77,"All rooms, hotel and restaruant have ,air conditioning.",Regions,Premier Inn
+615,Ramsgate (Manston Airport),Kent,18,All rooms have air con.,Regions,Premier Inn
+744,Daventry (Watford Gap),Not Trading 3,0,,NA,Premier Inn
+446,London Hendon (The Hyde),Outer London Area,39,All rooms have air con.,London,Premier Inn
+521,Melton Mowbray,East Midlands,21,All rooms have air con.,Regions,Premier Inn
+711,Telford Central,Cheshire/Shropshire,17,All areas air conditioned.,Regions,Premier Inn
+547,Newquay (Quintrell Downs),Cornwall/Devon,21,No Air Con,Regions,Premier Inn
+498,Manchester Airport Heald Green,Greater Manchester,26,No Air Con,Regions,Premier Inn
+759,Widnes,Merseyside,33,"All rooms and whole hotel has air ,conditioning.",Regions,Premier Inn
+963,Berlin Airport,Germany Southeast,0,,Germany,Premier Inn Germany
+624,Rochdale,Greater Manchester,28,No Air Con,Regions,Premier Inn
+617,Reading (Grazeley Green),M4 Corridor,9,No Air Con,Regions,Premier Inn
+627,London Romford West,Outer London Area,9,No Air Con,London,Premier Inn
+444,London Hammersmith,Inner London Area,18,All rooms have air con.,London,Premier Inn
+393,Leicester (Forest East),East Midlands,20,No Air Con,Regions,Premier Inn
+465,London Stratford,Inner London Area,81,No Air Con,London,Premier Inn
+574,Nottingham Arena (London Road),East Midlands,8,No Air Con,Regions,Premier Inn
+420,Llandudno (Glan-Conwy),Wales,10,No Air Con,Regions,Premier Inn
+589,Peterborough (Hampton),East Anglia,0,No Air Con,Regions,Premier Inn
+582,Paignton (Goodrington Sands),Cornwall/Devon,17,All rooms have air con.,Regions,Premier Inn
+564,North Shields (Ferry Terminal),North East,53,No Air Con,Regions,Premier Inn
+432,London City (Tower Hill),Central London Area,25,All rooms have air con.,London,Premier Inn
+530,Monmouth,Wales,47,All rooms have air con.,Regions,Premier Inn
+410,Liverpool (Roby),Merseyside,23,No Air Con,Regions,Premier Inn
+681,St. Neots (Colmworth Park),North Home Counties,21,No Air Con,Regions,Premier Inn
+709,Taunton East,Bristol/Somerset,13,No Air Con,Regions,Premier Inn
+678,St. Helens (A580/East Lancs),Merseyside,5,No Air Con,Regions,Premier Inn
+396,Leicester South (Oadby),East Midlands,5,No Air Con,Regions,Premier Inn
+715,Thetford,East Anglia,57,No Air Con,Regions,Premier Inn
+481,Maidstone (West Malling),Kent,14,No Air Con,Regions,Premier Inn
+392,Leicester City Centre,East Midlands,40,All rooms have air con.,Regions,Premier Inn
+902,Peterborough City Centre,East Anglia,0,,Regions,Premier Inn
+570,Nottingham West,East Midlands,29,No Air Con,Regions,Premier Inn
+562,Northwich South,Cheshire/Shropshire,7,No Air Con,Regions,Premier Inn
+485,Maidstone (Allington),Kent,26,No Air Con,Regions,Premier Inn
+601,Port Talbot,Wales,18,No Air Con,Regions,Premier Inn
+558,Northampton Bedford Rd/A428,North Home Counties,14,No Air Con,Regions,Premier Inn
+535,Newcastle Under Lyme,Cheshire/Shropshire,35,No Air Con,Regions,Premier Inn
+516,Manchester(Middleton) - Closed,Not Trading 3,0,,NA,Premier Inn
+954,London Paddington,Central London Area,0,,London,Premier Inn
+651,"Solihull (Hockley Heath, M42)",West Midlands,14,No Air Con,Regions,Premier Inn
+503,Manchester Old Trafford,Greater Manchester,50,All rooms have air con.,Regions,Premier Inn
+847,Muenchen City Schwabing,Germany Southeast,0,All rooms have air con,Germany,Premier Inn Germany
+771,Wirral (Greasby),Merseyside,0,No Air Con,Regions,Premier Inn
+508,Manchester Salford Quays,Greater Manchester,25,All rooms have air con.,Regions,Premier Inn
+646,Shrewsbury Town Centre,Cheshire/Shropshire,54,All rooms have air con.,Regions,Premier Inn
+644,Solihull (Shirley),Not Trading 3,3,No Air Con,Regions,Premier Inn
+761,Wigan Town Centre,Merseyside,29,"All rooms and whole hotel have air ,conditioning.",Regions,Premier Inn
+940,Jersey St Helier,Cornwall/Devon,0,,Regions,Premier Inn
+489,Manchester Airport,Airports Area,0,No Air Con,Regions,Premier Inn
+622,Rhuddlan,Wales,8,All rooms have air con.,Regions,Premier Inn
+427,London Blackfriars,Central London Area,42,All rooms have air con.,London,Premier Inn
+527,Milton Keynes South,Oxfordshire/Buckinghamshire,0,No Air Con,Regions,Premier Inn
+695,Sunderland North West,Not Trading 3,20,No Air Con,Regions,Premier Inn
+967,Regensburg City Centre,Germany Southeast,0,,Germany,Premier Inn Germany
+631,Rugby North (Newbold),West Midlands,8,No Air Con,Regions,Premier Inn
+700,Swansea Waterfront,Wales,53,All rooms have air con.,Regions,Premier Inn
+768,Wirral (Heswall),Merseyside,26,No Air Con,Regions,Premier Inn
+450,London Kensington,Inner London Area,53,All rooms and whole hotel has air con.,London,Premier Inn
+539,Newcastle Gosforth/Cramlington,North East,40,No Air Con,Regions,Premier Inn
+717,Thurrock West,Essex,29,"All rooms have air con - reception does,not have air con.",Regions,Premier Inn
+561,Northampton Gt Billing/A45,North Home Counties,1,No Air Con,Regions,Premier Inn
+525,Middlesbrough Central,Yorkshire,14,No Air Con,Regions,Premier Inn
+765,Winchester,Sussex/Surrey,23,All rooms have air con.,Regions,Premier Inn
+634,London Ruislip,Outer London Area,10,All rooms have air con.,London,Premier Inn
+755,Weymouth,South Coast,26,All rooms and whole hotel has air con.,Regions,Premier Inn
+639,Maidstone/Sevenoaks,Kent,21,No Air Con,Regions,Premier Inn
+448,London Holborn,Central London Area,41,All rooms have air con.,London,Premier Inn
+399,Lewes Town Centre,South Coast,25,All rooms have air con.,Regions,Premier Inn
+500,Manchester (Sale),Greater Manchester,15,No Air Con,Regions,Premier Inn
+584,Paignton South (Brixham Road),Cornwall/Devon,32,All rooms have air con.,Regions,Premier Inn
+526,Milton Keynes Central(Xscape),Oxfordshire/Buckinghamshire,0,No Air Con,Regions,Premier Inn
+607,Preston South (Craven Drive),Lancashire/Cumbria,6,No Air Con,Regions,Premier Inn
+706,"Taunton Ruishton (M5, J25)",Bristol/Somerset,11,All rooms have air con.,Regions,Premier Inn
+619,Redditch North (A441),West Midlands,28,All rooms have air con.,Regions,Premier Inn
+626,London Romford Mercury Gardens,Outer London Area,25,No Air Con,London,Premier Inn
+559,Norwich Nelson City Centre,East Anglia,21,All rooms have air con.,Regions,Premier Inn
+441,Goodge Street,Central London Area,0,All rooms have air con.,London,hub by Premier Inn
+752,Weston-Super-Mare (Lympsham),Bristol/Somerset,19,All rooms have air con.,Regions,Premier Inn
+831,"London Hayes, Heathrow",Outer London Area,96,All rooms have air con,Regions,Premier Inn
+810,Kings Cross,Central London Area,0,"All rooms have brand new powerful,aircon.",London,hub by Premier Inn
+419,London Victoria,Central London Area,8,All rooms have air con.,London,Premier Inn
+764,"Wigan (M6, J25)",Merseyside,8,No Air Con,Regions,Premier Inn
+612,Preston North,Lancashire/Cumbria,0,No Air Con,Regions,Premier Inn
+429,London Brentford,Inner London Area,50,All rooms have air con.,London,Premier Inn
+945,Stuttgart City Europaviertel,Germany Southeast,0,,Germany,Premier Inn Germany
+696,Sunderland A19/A1231,North East,41,No Air Con,Regions,Premier Inn
+621,Redhill Reigate,Sussex/Surrey,8,No Air Con,Regions,Premier Inn
+520,Matlock,Peak District/Lincolnshire,10,All rooms have air con.,Regions,Premier Inn
+610,Preston East,Lancashire/Cumbria,29,No Air Con,Regions,Premier Inn
+586,Perth City Centre,Scotland East,32,All rooms have air con.,Regions,Premier Inn
+688,Stoke/Trentham Gardens,Cheshire/Shropshire,15,All rooms/whole hotel has air con.,Regions,Premier Inn
+618,Reading Central,M4 Corridor,16,All rooms have air con.,Regions,Premier Inn
+966,London Canary Wharf,Inner London Area,0,,London,Premier Inn
+661,Southampton City Centre,Portsmouth/Southampton,72,No Air Con,Regions,Premier Inn
+599,Poole North,South Coast,0,All rooms have air con.,Regions,Premier Inn
+849,West Bromwich (New Square),West Midlands,44,All rooms have air con,Regions,Premier Inn
+773,Woking West (A324),Sussex/Surrey,35,No Air Con,Regions,Premier Inn
+550,Newcastle (Holystone),North East,35,No Air Con,Regions,Premier Inn
+774,Woking Town Centre,Sussex/Surrey,36,All rooms have air con.,Regions,Premier Inn
+662,Southampton West,Portsmouth/Southampton,24,No Air Con,Regions,Premier Inn
+800,Letchworth Garden City,North Home Counties,18,All rooms have air con.,Regions,Premier Inn
+946,Guernsey St Peter Port,Cornwall/Devon,0,,Regions,Premier Inn
+528,Milton Keynes Sw(Furzton Lake),Oxfordshire/Buckinghamshire,32,No Air Con,Regions,Premier Inn
+642,Sheffield (Arena),Yorkshire,38,All rooms have air con.,Regions,Premier Inn
+600,Bournemouth/Ferndown,South Coast,11,No Air Con,Regions,Premier Inn
+529,Milton Keynes East,Oxfordshire/Buckinghamshire,1,No Air Con,Regions,Premier Inn
+758,Whitstable,Kent,14,No Air Con,Regions,Premier Inn
+690,Tewkesbury (Strensham),Not Trading 3,0,,NA,Premier Inn
+710,Telford North,Cheshire/Shropshire,16,All rooms have air con.,Regions,Premier Inn
+833,Sevenoaks,Kent,43,All rooms have air con,Regions,Premier Inn
+491,Manchester (Arena/Printworks),Greater Manchester,27,All areas are air conditioned.,Regions,Premier Inn
+734,Ware,North Home Counties,24,All rooms have air con.,Regions,Premier Inn
+729,Wakefield Central,Franchise Area,5,No Air Con,Regions,Premier Inn
+567,Nottingham Castle Marina,East Midlands,26,No Air Con,Regions,Premier Inn
+560,Norwich Airport,East Anglia,14,No Air Con,Regions,Premier Inn
+826,Leeds Headingley,Leeds/Bradford,39,All areas are air conditioned,Regions,Premier Inn
+685,Stoke-On-Trent (Hanley),Cheshire/Shropshire,30,All rooms have air con.,Regions,Premier Inn
+848,Cardiff,Wales,0,0,Regions,ZIP by Premier Inn
+659,Southend-On-Sea (Thorpe Bay),Essex,35,No Air Con,Regions,Premier Inn
+507,Manchester (Deansgate Locks),Greater Manchester,0,No Air Con,Regions,Premier Inn
+436,London Docklands (Excel),Inner London Area,69,All rooms have air con.,London,Premier Inn
+566,Northampton West (Harpole),North Home Counties,20,No Air Con,Regions,Premier Inn
+598,Poole Centre (Holes Bay),South Coast,58,No Air Con,Regions,Premier Inn
+593,Plymouth East,Cornwall/Devon,28,No Air Con,Regions,Premier Inn
+630,Southampton (Rownhams),Not Trading 3,0,,NA,Premier Inn
+743,Watford (Croxley Green),North Home Counties,27,No Air Con,Regions,Premier Inn
+633,Rugeley,West Midlands,18,No Air Con,Regions,Premier Inn
+699,Swanley,Kent,18,All rooms have air con.,Regions,Premier Inn
+668,London Stansted Airport,Airports Area,108,All rooms have air con.,Regions,Premier Inn
+486,Maidenhead Town Centre,M4 Corridor,50,All rooms have air con.,Regions,Premier Inn
+863,Wokingham Town Centre,M4 Corridor,38,All rooms have air con,Regions,Premier Inn
+835,Gloucester (Quayside),Gloucester/Worcester/Hereford,42,All rooms have air con,Regions,Premier Inn
+812,London Tolworth,Outer London Area,76,All rooms have air con.,London,Premier Inn
+515,Manchester West Didsbury,Greater Manchester,60,No Air Con,Regions,Premier Inn
+959,Milton Keynes (Willen Lake),Oxfordshire/Buckinghamshire,0,,Regions,Premier Inn
+691,Stroud,Gloucester/Worcester/Hereford,2,No Air Con,Regions,Premier Inn
+480,Macclesfield South West,Cheshire/Shropshire,0,No Air Con,Regions,Premier Inn
+777,Worcester City Centre,Gloucester/Worcester/Hereford,49,All rooms have air con.,Regions,Premier Inn
+641,Sheffield City Centre Angel St,Yorkshire,46,All rooms have air con.,Regions,Premier Inn
+723,Trowbridge,Bristol/Somerset,32,All rooms have air con.,Regions,Premier Inn
+636,Salisbury North Bishopdown,Sussex/Surrey,53,No Air Con,Regions,Premier Inn
+613,St. Albans/Bricket Wood,North Home Counties,24,No Air Con,Regions,Premier Inn
+804,Edinburgh Cc Rose Street,Scotland East,0,"All rooms have brand new powerful,aircon.",Regions,hub by Premier Inn
+664,Southampton Cc (West Quay),Portsmouth/Southampton,40,All rooms have air con.,Regions,Premier Inn
+680,"Stirling South (M9, J9)",Scotland East,21,No Air Con,Regions,Premier Inn
+605,Portsmouth Port Solent,Portsmouth/Southampton,47,All rooms have air con.,Regions,Premier Inn
+896,Newquay (Seafront),Cornwall/Devon,-2146826246,All rooms have air con.,Regions,Premier Inn
+944,London Docklands,Inner London Area,0,,London,Premier Inn
+698,Swansea City Centre,Wales,25,All rooms have air con.,Regions,Premier Inn
+798,Cockermouth,Lancashire/Cumbria,26,All rooms have air con.,Regions,Premier Inn
+756,Weymouth Seafront,South Coast,46,All rooms have air con.,Regions,Premier Inn
+978,Karlsruhe City Am Wasserturm,Germany Southeast,0,,,Premier Inn Germany
+968,Dublin Cc Gloucester St South,Republic of Ireland,0,,Regions,Premier Inn
+565,Norwich West (Showground/A47),East Anglia,9,No Air Con,Regions,Premier Inn
+754,West Bromwich,West Midlands,27,No Air Con,Regions,Premier Inn
+684,Wolviston/Wynyard,Yorkshire,23,No Air Con,Regions,Premier Inn
+739,Warrington Central North,Merseyside,4,No Air Con,Regions,Premier Inn
+839,Staines Upon Thames,Sussex/Surrey,61,All rooms have air con,Regions,Premier Inn
+737,Warrington North East,Merseyside,0,No Air Con,Regions,Premier Inn
+745,Watford Central,North Home Counties,17,No Air Con,Regions,Premier Inn
+851,Chesterfield Town Centre,Peak District/Lincolnshire,23,All rooms have air con,Regions,Premier Inn
+522,Merthyr Tydfil,Wales,32,No Air Con,Regions,Premier Inn
+787,York City (Blossom St North),Yorkshire,14,No Air Con,Regions,Premier Inn
+780,Wrexham North (A483),Wales,15,No Air Con,Regions,Premier Inn
+587,Petersfield,Portsmouth/Southampton,27,No Air Con,Regions,Premier Inn
+657,Southsea,Portsmouth/Southampton,8,All rooms have air con.,Regions,Premier Inn
+879,Duesseldorf City Centre,Germany Northwest,5,0,Germany,Premier Inn Germany
+703,"Swindon West (M4, J16)",M4 Corridor,16,All rooms have air con.,Regions,Premier Inn
+865,Bangor (Northern Ireland),Northern Ireland,34,All rooms have air con,Regions,Premier Inn
+665,Southend Airport,Essex,22,All rooms have air con.,Regions,Premier Inn
+555,Norwich East (Broadlands/A47),East Anglia,16,No Air Con,Regions,Premier Inn
+462,"Spitalfields, Brick Lane",Central London Area,0,All rooms have air conditioning,London,hub by Premier Inn
+637,Scarborough (South Bay),Yorkshire,38,No Air Con,Regions,Premier Inn
+647,Silverstone,Oxfordshire/Buckinghamshire,14,No Air Con,Regions,Premier Inn
+620,Redditch West (A448),West Midlands,6,No Air Con,Regions,Premier Inn
+648,Sittingbourne Kent,Kent,24,No Air Con,Regions,Premier Inn
+930,Koeln City Centre,Germany Northwest,0,,Germany,Premier Inn Germany
+887,Koeln City Sued,Germany Northwest,5,0,Germany,Premier Inn Germany
+750,Weston-Super-Mare (Seafront),Bristol/Somerset,45,No Air Con,Regions,Premier Inn
+679,Stirling City Centre,Scotland East,28,All rooms and hotel has air con.,Regions,Premier Inn
+490,Manchester Airport (Ft),Airports Area,117,All rooms have air con.,Regions,Premier Inn
+900,Glasgow City Centre,Scotland West,0,,Regions,Premier Inn
+837,London Farringdon (Smithfield),Central London Area,108,All rooms have air con,London,Premier Inn
+942,London Romford Town Centre,Outer London Area,0,,London,Premier Inn
+590,Peterborough (A1(M)J16),East Anglia,0,No Air Con,Regions,Premier Inn
+742,Newcastle (Washington),North East,12,No Air Con,Regions,Premier Inn
+588,Peterborough (Ferry Meadows),East Anglia,10,No Air Con,Regions,Premier Inn
+785,York North West,Yorkshire,5,No Air Con,Regions,Premier Inn
+653,Solihull Town Centre,West Midlands,17,All rooms have air con.,Regions,Premier Inn
+738,Warwick,West Midlands,25,All rooms have air con.,Regions,Premier Inn
+656,Southport Central,Lancashire/Cumbria,48,No Air Con,Regions,Premier Inn
+702,Swindon Central,M4 Corridor,14,No Air Con,Regions,Premier Inn
+893,Hertford Bircherley St,North Home Counties,0,,Regions,Premier Inn
+725,London Twickenham East,Outer London Area,4,All rooms have air con.,London,Premier Inn
+694,Sunbury (Kempton Park),Sussex/Surrey,55,All rooms have air con.,Regions,Premier Inn
+640,Sheffield Cc St Marys Gate,Yorkshire,16,All rooms have air con.,Regions,Premier Inn
+716,Thurrock East,Essex,44,No Air Con,Regions,Premier Inn
+935,Hannover City University,Germany Northwest,0,,Germany,Premier Inn Germany
+884,Hamburg City Millerntor,Germany Northwest,0,,Germany,Premier Inn Germany
+628,Ross-On-Wye,Gloucester/Worcester/Hereford,15,No Air Con,Regions,Premier Inn
+760,Wigan (M6 Jct 27),Merseyside,13,No Air Con,Regions,Premier Inn
+836,Liverpool City (Lime Street),Merseyside,38,All rooms have air con,Regions,Premier Inn
+763,Haydock Park (Wigan South),Not Trading 3,0,,NA,Premier Inn
+872,Hereford City Centre,Gloucester/Worcester/Hereford,26,All rooms have air con,Regions,Premier Inn
+749,London Wembley Park,Outer London Area,106,All rooms have air con.,London,Premier Inn
+753,Weston-Super-Mare East (A370),Bristol/Somerset,19,No Air Con,Regions,Premier Inn
+853,Winnersh,M4 Corridor,63,All rooms have air con,Regions,Premier Inn
+666,South Shields Port Of Tyne,North East,13,No Air Con,Regions,Premier Inn
+799,Heathrow Airport Terminal 4,Airports Area,333,All rooms have air con.,Regions,Premier Inn
+829,Edinburgh Haymarket,Scotland East,0,All rooms have air conditioning,Regions,hub by Premier Inn
+673,St Albans City Centre,North Home Counties,50,All rooms have air con.,Regions,Premier Inn
+669,Stafford North (Spitfire),Cheshire/Shropshire,32,No Air Con,Regions,Premier Inn
+731,Waltham Abbey,Outer London Area,10,No Air Con,Regions,Premier Inn
+917,Muenchen Messe,Germany Southeast,0,,Germany,Premier Inn Germany
+674,Stafford North (Hurricane),Cheshire/Shropshire,29,No Air Con,Regions,Premier Inn
+581,Oxford Cowley,Oxfordshire/Buckinghamshire,61,All rooms have air con.,Regions,Premier Inn
+474,Loughborough,East Midlands,27,All rooms have air con.,Regions,Premier Inn
+708,Taunton Deane,Not Trading 3,0,,NA,Premier Inn
+686,Stockport Central,Greater Manchester,11,No Air Con,Regions,Premier Inn
+689,Stratford-Upon-Avon Waterways,Gloucester/Worcester/Hereford,33,All rooms have air con.,Regions,Premier Inn
+776,Wolverhampton North,West Midlands,28,No Air Con,Regions,Premier Inn
+805,Newbury Town Centre South A339,M4 Corridor,45,All rooms have air con.,Regions,Premier Inn
+821,Ulverston,Lancashire/Cumbria,36,All areas are air conditioned,Regions,Premier Inn
+531,Crewe (Nantwich),Cheshire/Shropshire,29,No Air Con,Regions,Premier Inn
+918,Nuernberg City Nordost,Germany Southeast,0,,Germany,Premier Inn Germany
+855,London Wimbledon (Broadway),Inner London Area,44,All rooms have air con,London,Premier Inn
+950,Muenchen Airport Sued,Germany Southeast,0,,Germany,Premier Inn Germany
+592,Plymouth City (Lockyers Quay),Cornwall/Devon,24,No Air Con,Regions,Premier Inn
+772,Witney,Oxfordshire/Buckinghamshire,25,All rooms have air con.,Regions,Premier Inn
+623,Ripley,Peak District/Lincolnshire,21,All rooms have air con.,Regions,Premier Inn
+895,Marlborough,M4 Corridor,38,All rooms have air con.,Regions,Premier Inn
+741,"Warrington (A49/M62,J9)",Merseyside,8,No Air Con,Regions,Premier Inn
+803,Wells (Somerset),Bristol/Somerset,23,All rooms have air con.,Regions,Premier Inn
+697,Swansea North,Wales,26,No Air Con,Regions,Premier Inn
+795,London Clapham,Inner London Area,57,All rooms have air con.,London,Premier Inn
+899,Scarborough (North Bay),Yorkshire,0,,Regions,Premier Inn
+827,Rhyl Seafront,Wales,22,All rooms are air conditioned.,Regions,Premier Inn
+912,Bishop's Stortford,Essex,0,,Regions,Premier Inn
+724,Truro,Cornwall/Devon,11,All rooms have air con.,Regions,Premier Inn
+941,Faversham,Kent,0,,Regions,Premier Inn
+933,Saarbruecken City Centre,Germany Northwest,0,,Germany,Premier Inn Germany
+735,Warrington South,Merseyside,10,No Air Con,Regions,Premier Inn
+782,Yeovil Airfield,Bristol/Somerset,19,No Air Con,Regions,Premier Inn
+875,Rickmansworth,North Home Counties,0,,Regions,Premier Inn
+816,Bridlington Seafront,Yorkshire,31,All rooms have air con,Regions,Premier Inn
+977,Dresden City Prager Strasse,Germany Southeast,0,,Germany,Premier Inn Germany
+852,Holyhead,Wales,32,All rooms have air con,Regions,Premier Inn
+898,Isle Of Wight (Seafront),South Coast,0,,Regions,Premier Inn
+707,Taunton Central (North),Bristol/Somerset,16,No Air Con,Regions,Premier Inn
+822,Bournemouth Christchurch Rd PI,Unassigned,NA,NA,NA,Unassigned
+866,"Bridgwater Gateway (M5, J24)",Bristol/Somerset,42,All rooms have air con,Regions,Premier Inn
+713,Tenby Town Centre,Wales,17,All rooms have air con.,Regions,Premier Inn
+672,Stafford (M6 Southbound),Not Trading 3,0,,NA,Premier Inn
+748,Welwyn Garden City,North Home Counties,15,No Air Con,Regions,Premier Inn
+927,Worksop,Peak District/Lincolnshire,0,,Regions,Premier Inn
+919,Oxford Botley,Oxfordshire/Buckinghamshire,0,,Regions,Premier Inn
+591,Peterborough North,East Anglia,10,No Air Con,Regions,Premier Inn
+512,Manchester Trafford Centre Nth,Greater Manchester,17,No Air Con,Regions,Premier Inn
+712,Telford International Centre,Cheshire/Shropshire,38,All rooms have air con.,Regions,Premier Inn
+714,Tewkesbury,Gloucester/Worcester/Hereford,6,No Air Con,Regions,Premier Inn
+740,Warrington Centre,Franchise Area,18,No Air Con,Regions,Premier Inn
+864,London New Southgate,Inner London Area,59,All areas are air conditioned.,London,Premier Inn
+857,Cardiff Bay,Wales,84,All rooms have air con,Regions,Premier Inn
+916,London Tooting,Inner London Area,0,,London,Premier Inn
+643,Sheffield Meadowhall,Yorkshire,29,No Air Con,Regions,Premier Inn
+924,Frankfurt Westend,Germany Northwest,0,,Germany,Premier Inn Germany
+956,Saarbrucken City Congresshalle,Germany Northwest,0,,Germany,Premier Inn Germany
+629,Rotherham East (M18/M1),Yorkshire,25,No Air Con,Regions,Premier Inn
+861,Penzance,Cornwall/Devon,5,All rooms have air con,Regions,Premier Inn
+767,Wirral (Childer Thornton),Merseyside,10,No Air Con,Regions,Premier Inn
+897,Plymouth City Centre,Cornwall/Devon,0,,Regions,Premier Inn
+828,Seaton,Cornwall/Devon,27,All rooms have air con.,Regions,Premier Inn
+815,Bournemouth East Cliff,South Coast,23,All rooms have air con,Regions,Premier Inn
+733,Walsall Town Centre,West Midlands,28,All rooms have air con.,Regions,Premier Inn
+858,Great Yarmouth (Seafront),East Anglia,53,All rooms have air con,Regions,Premier Inn
+901,Oxford City Centre,Oxfordshire/Buckinghamshire,0,,Regions,Premier Inn
+845,"Reading Gateway M4,J11",M4 Corridor,48,All rooms have air con,Regions,Premier Inn
+808,Bristol Cc (Finzels Reach),Bristol/Somerset,64,All rooms have air con.,Regions,Premier Inn
+971,London Camden,Central London Area,0,,London,hub by Premier Inn
+762,"Wigan West (M6,Jct 26)",Franchise Area,8,No Air Con,Regions,Premier Inn
+813,Milton Keynes Theatre District,Oxfordshire/Buckinghamshire,24,All rooms have air con.,Regions,Premier Inn
+909,London Finsbury Park,Inner London Area,0,,London,Premier Inn
+862,Royal Tunbridge Wells,Kent,0,,Regions,Premier Inn
+952,Berlin Alexanderplatz,Germany Southeast,0,,,Premier Inn Germany
+953,London (Shepherds Bush Road),Inner London Area,0,,London,Premier Inn
+784,York North,Yorkshire,0,No Air Con,Regions,Premier Inn
+873,Oxford Kidlington (Airport),Oxfordshire/Buckinghamshire,41,All rooms have air con,Regions,Premier Inn
+975,Cork City Centre,Republic of Ireland,0,,Regions,Premier Inn
+721,Torquay Seafront,Cornwall/Devon,32,All rooms have air con.,Regions,Premier Inn
+718,Mansfield (Tibshelf),Not Trading 3,0,,NA,Premier Inn
+841,Hamburg City (Zentrum),Germany Northwest,23,All rooms have air con,Germany,Premier Inn Germany
+932,Heidelberg City Bahnstadt,Germany Southeast,0,,Germany,Premier Inn Germany
+608,Preston Central,Lancashire/Cumbria,60,All rooms have air con.,Regions,Premier Inn
+597,Pontefract North,Leeds/Bradford,19,No Air Con,Regions,Premier Inn
+783,Yeovil Town Centre,Bristol/Somerset,32,All rooms have air con.,Regions,Premier Inn
+728,Wakefield City North,Leeds/Bradford,28,No Air Con,Regions,Premier Inn
+778,Worthing Seafront,South Coast,60,All rooms have air con.,Regions,Premier Inn
+888,Muenchen Airport Ost,Germany Southeast,5,0,Germany,Premier Inn Germany
+886,Heidelberg City Zentrum,Germany Southeast,5,All rooms have air con.,Germany,Premier Inn Germany
+957,Wolfsburg City Centre,Germany Northwest,0,,,Premier Inn Germany
+667,Spalding,Not Trading 3,0,,Regions,Premier Inn
+676,Stevenage Central,North Home Counties,8,All rooms have air con.,Regions,Premier Inn
+906,Thurso,Scotland North,0,,Regions,Premier Inn
+834,Gloucester (Quayside) PI,Unassigned,NA,NA,NA,Unassigned
+905,Milton Keynes Central,Oxfordshire/Buckinghamshire,0,,Regions,Premier Inn
+868,Tiverton,Cornwall/Devon,34,All rooms have air con,Regions,Premier Inn
+766,Winchester - Closed,Not Trading 3,0,,NA,Premier Inn
+883,Hamburg City Hammerbrook,Germany Northwest,10,0,Germany,Premier Inn Germany
+934,Wuppertal City Centre,Germany Northwest,0,,Germany,Premier Inn Germany
+880,Essen City Limbecker Platz,Germany Northwest,5,0,Germany,Premier Inn Germany
+814,Whitley Bay,North East,26,All rooms have air con.,Regions,Premier Inn
+786,York South West,Yorkshire,3,All rooms and restaurant have air con.,Regions,Premier Inn
+955,Nuernberg City Opernhaus,Germany Southeast,0,,Germany,Premier Inn Germany
+936,Bury St Edmunds North (A14),East Anglia,0,,Regions,Premier Inn
+881,Frankfurt City Centre,Germany Northwest,5,0,Germany,Premier Inn Germany
+964,Birmingham City (Exchange Sq),West Midlands,0,,Regions,Premier Inn
+790,London Southwark (High St),Central London Area,35,All rooms have air con.,London,Premier Inn
+923,London Shoreditch,Central London Area,0,,London,hub by Premier Inn
+736,Warrington (M6/J21),Merseyside,39,No Air Con,Regions,Premier Inn
+806,Leeds Cc (Whitehall Road),Leeds/Bradford,54,All rooms have air con.,Regions,Premier Inn
+972,London Clerkenwell,Central London Area,0,,London,hub by Premier Inn
+652,Solihull South (M42),West Midlands,16,No Air Con,Regions,Premier Inn
+654,London Southwark (Bankside),Central London Area,0,All rooms have air con.,London,Premier Inn
+797,Bude,Cornwall/Devon,36,All areas are air conditioned.,Regions,Premier Inn
+769,Wirral (Bromborough),Franchise Area,4,No Air Con,Regions,Premier Inn
+817,Middlesbrough Town Centre,Yorkshire,41,All rooms have air con.,Regions,Premier Inn
+943,Duesseldorf Friedrichstadt,Germany Northwest,0,,Germany,Premier Inn Germany
+947,Porthmadog,Wales,0,,Regions,Premier Inn
+973,Stuttgart Bad Cannstatt,Germany Southeast,0,,Germany,Premier Inn Germany
+732,"Walsall (M6, J10)",West Midlands,12,No Air Con,Regions,Premier Inn
+779,"Worcester (M5,Jct6)",Gloucester/Worcester/Hereford,20,No Air Con,Regions,Premier Inn
+854,London Soho,Central London Area,0,,London,hub by Premier Inn
+890,Blackpool (North Pier),Lancashire/Cumbria,0,,Regions,Premier Inn
+859,"Douglas, Isle Of Man",Lancashire/Cumbria,34,All rooms have air con,Regions,Premier Inn
+889,Nuernberg City Centre,Germany Southeast,5,0,Germany,Premier Inn Germany
+976,Darmstadt City Centre,Germany Northwest,0,,Germany,Premier Inn Germany
+965,Keswick,Lancashire/Cumbria,0,,Regions,Premier Inn
+844,London City Bank,Central London Area,0,All rooms have air con,London,hub by Premier Inn
+788,York City (Blossom St South),Yorkshire,25,All rooms have air con.,Regions,Premier Inn
+982,Dublin Cc (North Docklands),,0,,Regions,Premier Inn
+882,Freiburg City Sued,Germany Southeast,5,All rooms have air con.,Germany,Premier Inn Germany
+925,Leipzig City Hahnekamm,Germany Southeast,0,,Germany,Premier Inn Germany
+746,Watford North,North Home Counties,31,No Air Con,Regions,Premier Inn
+915,Essen City Centre,Germany Northwest,0,,Germany,Premier Inn Germany
+980,York City Centre (Layerthorpe),,0,,Regions,Premier Inn
+677,St. Helens South,Merseyside,17,No Air Con,Regions,Premier Inn
+683,Stockport South,Greater Manchester,14,No Air Con,Regions,Premier Inn
+824,Westminster Abbey,Central London Area,0,All rooms have brand new powerful aircon,London,hub by Premier Inn
+832,Newbury Town Centre,M4 Corridor,43,All rooms have air con,Regions,Premier Inn
+939,Luebeck City Stadtgraben,Germany Northwest,0,,Germany,Premier Inn Germany
+949,Alnwick,North East,0,,Regions,Premier Inn
+979,Swindon Town Centre,,0,,Regions,Premier Inn
+757,Whitehaven,Lancashire/Cumbria,67,No Air Con,Regions,Premier Inn
+781,Wrexham Town Centre,Wales,35,All rooms have air con.,Regions,Premier Inn
+860,Horsham Town Centre,Sussex/Surrey,57,All rooms have air con,Regions,Premier Inn
+870,Harlow East (Church Langley),Essex,24,All areas are air conditioned.,Regions,Premier Inn
+903,Glasgow (Hamilton),Scotland West,0,,Regions,Premier Inn
+856,Portsmouth Dockyard,Portsmouth/Southampton,5,0,Regions,Premier Inn
+929,Passau Weisser Hase,Germany Southeast,0,,Germany,Premier Inn Germany
+920,Saffron Walden,Essex,0,,Regions,Premier Inn
+938,Stuttgart Airport/Messe,Germany Southeast,0,,Germany,Premier Inn Germany
+770,Wirral (Two Mills),Merseyside,2,No Air Con,Regions,Premier Inn
+960,Mannheim City Centre,Germany Southeast,0,,Germany,Premier Inn Germany
+687,Stockton-On-Tees,Yorkshire,23,No Air Con,Regions,Premier Inn
+825,Southampton (Cumberland Place),Portsmouth/Southampton,66,All areas are air conditioned,Regions,Premier Inn
+846,Muenchen City (Zentrum),Germany Southeast,27,All rooms have air con,Germany,Premier Inn Germany
+838,Salisbury South Milford,Sussex/Surrey,26,All rooms have air con,Regions,Premier Inn
+969,Berlin City Wilmersdorf,Germany Southeast,0,,Germany,Premier Inn Germany
+981,Heilbronn City Centre,Germany Southeast,0,,,Premier Inn Germany
+791,London Woolwich Royal Arsenal,Inner London Area,53,All rooms have air con.,London,Premier Inn
+789,Chipping Norton,Oxfordshire/Buckinghamshire,12,All rooms have air con.,Regions,Premier Inn
+885,Hamburg City Alster,Germany Northwest,5,All rooms have air con.,Germany,Premier Inn Germany
+894,Llandudno Town Centre,Wales,0,,Regions,Premier Inn
+891,Buckingham,Oxfordshire/Buckinghamshire,-2146826246,No Air Con,Regions,Premier Inn
+962,Hamburg City Klostertor,Germany Northwest,0,,Germany,Premier Inn Germany
+794,"Westminster, St James Park",Central London Area,0,All rooms have brand new powerful aircon,London,hub by Premier Inn
+792,Minehead,Bristol/Somerset,66,All rooms have air con.,Regions,Premier Inn
+907,Uckfield,Sussex/Surrey,0,,Regions,Premier Inn
+818,Oban,Scotland North,33,All rooms have air con,Regions,Premier Inn
+867,Berwick Upon Tweed,North East,4,All rooms have air con,Regions,Premier Inn
+961,Wiesbaden City Centre,Germany Northwest,0,,Germany,Premier Inn Germany
+911,Manchester Cc(Princess Street),Greater Manchester,10,,Regions,Premier Inn
+811,London Southgate,Inner London Area,36,All areas are air conditioned.,London,Premier Inn
+809,Addlestone,Sussex/Surrey,18,All rooms have air con.,Regions,Premier Inn
+820,Slough West (Trading Estate),M4 Corridor,50,All rooms have air con,Regions,Premier Inn
+869,Aviemore,Scotland North,5,All rooms have air con,Regions,Premier Inn
+913,Bournemouth West Cliff,South Coast,0,,Regions,Premier Inn
+931,Braunschweig City Centre,Germany Northwest,0,,Germany,Premier Inn Germany
+904,London Southwark,Central London Area,0,,London,Premier Inn
+830,Wadebridge,Cornwall/Devon,24,All rooms have air con,Regions,Premier Inn
+948,St Davids,Wales,0,,Regions,Premier Inn
+974,Dublin Cc (The Liberties),Republic of Ireland,0,,Regions,Premier Inn
+937,London Uxbridge Town Centre,Outer London Area,0,,London,Premier Inn
+922,Stuttgart City Centre,Germany Southeast,0,,Germany,Premier Inn Germany
+921,Stuttgart Feuerbach,Germany Southeast,0,,Germany,Premier Inn Germany
+970,Abingdon (A34),Oxfordshire/Buckinghamshire,0,,Regions,Premier Inn

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Hotel Occupancy Prediction</title>
+		
+        <link rel="stylesheet" type="text/css" href="static/styles.css">
+
+    </head>
+
+    <body>
+
+        <!-- Website Title -->
+    	<div class="container">
+			<h1 class='container-heading'>Hotel Occupancy Prediction</h1>
+    	</div>
+
+        <!-- Prediction Area -->
+        <div class="prediction-area">
+
+            <!-- Prediction Form -->
+            <div class='div'>
+		
+                <form action="/predict" method="POST">
+                    <!-- trading_area Dropdown -->
+                    <select class="form-input align-center" name="trading-area">
+                        <option value="none">--- Select Trading Area ---</option>
+                        <option value="Scotland East">Scotland East</option>
+                        <option value="North Home Counties">North Home Counties</option>
+                        <option value="North East">North East</option>
+                        <option value="Gloucester Worcester Hereford">Gloucester/Worcester/Hereford</option>
+                        <option value="West Midlands">West Midlands</option>
+                        <option value="Merseyside">Merseyside</option>
+                        <option value="Kent">Kent</option>
+                        <option value="Sussex Surrey">Sussex/Surrey</option>
+						<option value="Leeds Bradford">Leeds/Bradford</option>
+                        <option value="Germany Northwest">Germany Northwest</option>
+                        <option value="Wales">Wales</option>
+                        <option value="Germany Southeast">Germany Southeast</option>
+                        <option value="East Anglia">East Anglia</option>
+                        <option value="M4 Corridor">M4 Corridor</option>
+                        <option value="Greater Manchester">Greater Manchester</option>
+                        <option value="Sussex Surrey">Sussex/Surrey</option>
+                        <option value="Scotland North">Scotland North</option>
+                        <option value="Northern Ireland">Northern Ireland</option>
+                        <option value="Outer London Area">Outer London Area</option>
+                        <option value="Scotland West">Scotland West</option>
+                        <option value="Bristol Somerset">Bristol/Somerset</option>
+                        <option value="Cornwall Devon">Cornwall/Devon</option>
+                        <option value="South Coast">South Coast</option>
+                        <option value="Central London Area">Central London Area</option>
+						<option value="Inner London Area">Inner London Area</option>
+                        <option value="Yorkshire">Yorkshire</option>
+                        <option value="Essex">Essex</option>
+                        <option value="Cheshire Shropshire">Cheshire/Shropshire</option>
+                        <option value="Airports Area">Airports Area</option>
+                        <option value="Portsmouth Southampton">Portsmouth/Southampton</option>
+                        <option value="Lancashire Cumbria">Lancashire/Cumbria</option>
+                        <option value="East Midlands">East Midlands</option>
+						<option value="Peak District Lincolnshire">Peak District/Lincolnshire</option>
+                        <option value="Oxfordshire Buckinghamshire">Oxfordshire/Buckinghamshire</option>
+                        <option value="Republic of Ireland">Republic of Ireland</option>
+                    </select><br>
+					
+                    <!-- air_conditioned_rooms Dropdown -->
+                    <select class="form-input align-center" name="air-conditioned-rooms">
+                        <option value="none">--- Select Air Conditioned Room ---</option>
+                        <option value="Yes">Yes</option>
+                        <option value="No">No</option>
+                    </select><br>
+					
+					<!-- london_region_split Dropdown -->
+                    <select class="form-input align-center" name="london-region-split">
+                        <option value="none">--- Select london Region Split ---</option>
+                        <option value="Regions">Regions</option>
+                        <option value="Germany">Germany</option>
+                        <option value="London">London</option>
+                    </select><br>
+					
+					
+                    <input class="form-input" type="text" name="total_vws" placeholder="total_vws"><br>
+                    <input class="form-input" type="text" name="family_rooms" placeholder="family_rooms"><br>
+					<input class="form-input" type="text" name="total_rooms_sold" placeholder="total_rooms_sold"><br>
+                    <input class="form-input" type="text" name="avgnights" placeholder="avgnights"><br>
+                    <input class="form-input" type="text" name="totalchildren" placeholder="totalchildren"><br>
+                    <input class="form-input" type="text" name="totalgrossrevenue_room" placeholder="totalgrossrevenue_room"><br>
+                    <input class="form-input" type="text" name="totalnetrevenue_mealdeal" placeholder="totalnetrevenue_mealdeal"><br>
+                    <input class="form-input" type="text" name="mobile_app" placeholder="mobile_app"><br>
+                    <input class="form-input" type="text" name="corporate_booking_tool" placeholder="corporate_booking_tool"><br>
+                    <input class="form-input" type="text" name="front_desk" placeholder="front_desk"><br>
+					<input class="form-input" type="text" name="totalnetrevenue_breakfast" placeholder="totalnetrevenue_breakfast"><br>
+                    <input class="form-input" type="text" name="ccc" placeholder="ccc"><br>
+                    <input class="form-input" type="text" name="travelport_gds" placeholder="travelport_gds"><br>
+                    <input class="form-input" type="text" name="agency" placeholder="agency"><br>
+                    <input class="form-input" type="text" name="germany_web_de" placeholder="germany_web_de"><br>
+					<input class="form-input" type="text" name="amadeus_gds" placeholder="amadeus_gds"><br>
+                    <input class="form-input" type="text" name="hub_mobile_app" placeholder="hub_mobile_app"><br>
+                    <input class="form-input" type="text" name="booking_com" placeholder="booking_com"><br>
+                    <input class="form-input" type="text" name="Canxrooms_last7days" placeholder="Canxrooms_last7days"><br>					
+					<input class="form-input" type="text" name="off_rooms" placeholder="off_rooms"><br>
+                    <input class="form-input" type="text" name="flex_rate" placeholder="flex_rate"><br>
+        
+			<input type="submit" class="myButton" value="Predict Score">
+        	</form>
+        </div>
+    </body>
+</html>
