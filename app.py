@@ -86,7 +86,7 @@ def predict():
         data = np.array([temp_array])
         my_prediction = regressor.predict(data)[0]
               
-        return render_template('result.html', lower_limit = round(my_prediction-2,2), upper_limit = round(my_prediction+2,2))
+        return render_template('result.html', lower_limit = max([int(my_prediction-5),0]), upper_limit = max([int(my_prediction+5),0]))
 
 
 if __name__ == '__main__':
