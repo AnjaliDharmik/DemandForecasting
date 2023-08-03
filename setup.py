@@ -23,7 +23,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-    name = 'DemandForecasting',
+    name = 'Demand--Forecasting',
     version= '0.0.1',
     author='Anjali Dharmik',
     author_email='anjali.dharmik92@gmail.com',
